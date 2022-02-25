@@ -1,0 +1,1300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>VVits fancies, or, Choice observations and essayes collected out of divine, political, philosophical, military and historical authors / by John Ufflet ...</title>
+            <author>Ufflet, John, b. 1603.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 135 KB of XML-encoded text transcribed from 69 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64668</idno>
+            <idno type="STC">Wing U20</idno>
+            <idno type="STC">ESTC R8998</idno>
+            <idno type="EEBO-CITATION">13534497</idno>
+            <idno type="OCLC">ocm 13534497</idno>
+            <idno type="VID">100032</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64668)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100032)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 479:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>VVits fancies, or, Choice observations and essayes collected out of divine, political, philosophical, military and historical authors / by John Ufflet ...</title>
+                  <author>Ufflet, John, b. 1603.</author>
+               </titleStmt>
+               <extent>[14], 80, [41] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. L. ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The contents of the book", [41] p. at end.</note>
+                  <note>Dedication signed: T. T.</note>
+                  <note>Reproduction of original in British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Aphorisms and apothegms --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100032:1"/>
+            <pb facs="tcp:100032:1" rendition="simple:additions"/>
+            <p>VVits Fancies: <hi>OR,</hi> CHOICE OBSERVATIONS AND <hi>ESSAYES,</hi> Collected out of Divine, Political, Philo<g ref="char:EOLhyphen"/>ſophical, Military, and Hiſtorical <hi>AUTHORS.</hi>
+            </p>
+            <p>By <hi>JOHN UFFLET.</hi> Gent.</p>
+            <q>Accuſator qui conſortem defert, ſeſe in<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ueator.</q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T.L.</hi> and are to be ſold by the Bookſellers. MDCLIX.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:100032:2"/>
+            <pb facs="tcp:100032:2"/>
+            <head>THE EPISTLE TO THE <hi>READER.</hi>
+            </head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>WHen you have ſur<g ref="char:EOLhyphen"/>veyed each Page of this little Treatiſe, you (I hope) will be able to render an account of it, how you like the Fabrick, and if it be well rear'd, the thought of falling is not to be feared, though he that did erect it, did not ſerve
+<pb facs="tcp:100032:3"/>many years to the Profeſ<g ref="char:EOLhyphen"/>ſion, nor deſerved the at<g ref="char:EOLhyphen"/>tribute of an <hi>Architect,</hi> yet he hath uſed his beſt endeavours to write truly thoſe things that (by his own Experiences) he knows, and thought it meet (without the leaſt offence) to Entitle it, <hi>Wits Fan<g ref="char:EOLhyphen"/>cies, or choice Obſer<g ref="char:EOLhyphen"/>vations, &amp;c.</hi> being the marrow of all that ever he read in any Hiſtory, either Sacred or Pro<g ref="char:EOLhyphen"/>phane.</p>
+            <pb facs="tcp:100032:3"/>
+            <p>In a word <hi>Reader,</hi> (not to make the Gates bigger then the City) I intreat thee with waſhed hands, and without a pre<g ref="char:EOLhyphen"/>judicate Opinion, to re<g ref="char:EOLhyphen"/>ceives it: So</p>
+            <closer>
+               <salute>Farewel.</salute>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100032:4"/>
+            <pb facs="tcp:100032:4"/>
+            <head>TO The Right Honorable and Vertuous Sir, <hi>T.N.K<hi rend="sup">t</hi>.</hi> Health and Happineſs.</head>
+            <opener>
+               <salute>Honored Sir,</salute>
+            </opener>
+            <p>THe confidence <hi>I</hi> have of your goodneſs, hath imboldened me to put this ſmall Treatiſe into your Honor's Protection, which (with ſome) would have been held a Crime intolle<g ref="char:EOLhyphen"/>rable. But <hi>I</hi> know your Honor is ſo far from being a Cenſurer, that you had
+<pb facs="tcp:100032:5"/>rather cherriſh honeſt en<g ref="char:EOLhyphen"/>deavours, then deſtroy them: And beſides this, there is a ſelf-affecting Sect crept now up in this our Age, that will not one<g ref="char:EOLhyphen"/>ly diſgorge their Envy &amp; Malice, but arreſt the ſenſe, unleſs ſome honeſt and judicious Patron be fixt to the fronts-piece, to correct their ſawcy peer<g ref="char:EOLhyphen"/>ing, (as the beams of the Sun) with blindneſſ: <hi>I</hi> knowing your Name to
+<pb facs="tcp:100032:5"/>be ſuch as amongst the diſ<g ref="char:EOLhyphen"/>cerning ſpirits deſerves the higheſt Attributes of worth, and of ſuch ſingu<g ref="char:EOLhyphen"/>lar power, that it will ex<g ref="char:EOLhyphen"/>tirpate the Malevolent Thoughts that reign now in the vulgar &amp; infectious Traducers; for now may it be truly ſaid of this Age, <hi>Saturitas illece bra<g ref="char:EOLhyphen"/>rum Nutrix,</hi> That ſulneſs is the Nurſe of Wantonneſſe; and becauſe ſuch a glut of Bookes is
+<pb facs="tcp:100032:6"/>come forth into the world, <hi>Vulgi genus perplex<g ref="char:EOLhyphen"/>us,</hi> the ſpirits of the com<g ref="char:EOLhyphen"/>mon people are troubled and perplexed. <hi>I</hi> therefore thought good to tender this as my first fruits at the altar of your Mercy; and if it may be ſo happy as to obtain the reflection of the beams of your mercy or acceptance, it will ſo much encourage your poor admi<g ref="char:EOLhyphen"/>rer, that <hi>I</hi> ſhall be ambiti<g ref="char:EOLhyphen"/>ous in the continuance of
+<pb facs="tcp:100032:6"/>your Honour's favours. Theſe are the Maiden flowers of my young age, which in the bloſſome may be ſmothered without your Honor's protection; which in their infancy may be deſtroyed by the breath of ſome Railers; but ſhelter<g ref="char:EOLhyphen"/>ed by your Honour, they ſhall live, and dare the Criticks Rancor, retorting to their own ſhame.</p>
+            <p>Honored Sir, the foſter<g ref="char:EOLhyphen"/>ing this <hi>Orphan,</hi> will
+<pb facs="tcp:100032:7"/>make you famous for Cha<g ref="char:EOLhyphen"/>rity, and impoſe an Obli<g ref="char:EOLhyphen"/>gation beyond expreſsion, upon</p>
+            <closer>
+               <signed>Your Honor's truly devoted, <hi>T.Y.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="observations">
+            <pb facs="tcp:100032:7"/>
+            <pb facs="tcp:100032:8"/>
+            <pb n="1" facs="tcp:100032:8"/>
+            <head>
+               <hi>WITS</hi> ACADEMY <hi>OR,</hi> Choice Obſervations collected out of Divine, Political, Philo<g ref="char:EOLhyphen"/>ſophical, Military and Hiſtorical Authors, &amp;c.</head>
+            <div type="part">
+               <head>Of Evil.</head>
+               <p>
+                  <seg rend="decorInit">T</seg>HE abetting of Evil is worſe then the commiſ<g ref="char:EOLhyphen"/>ſion: the one may be upon infirmity, the o<g ref="char:EOLhyphen"/>ther muſt be upon reſo<g ref="char:EOLhyphen"/>lution.</p>
+               <pb n="2" facs="tcp:100032:9"/>
+               <p>The reiteration of vicious acts, cauſes them to be believed to proceed from mans de praved nature, and not from the neceſſity of occaſion.</p>
+            </div>
+            <div type="part">
+               <head>Abstinence.</head>
+               <p>Abſtinence merits not; for religion conſiſts not only in the belly, either full or empty: What are meats or drinks to the kingdome of God which is like him<g ref="char:EOLhyphen"/>ſelf, ſpiritual? but it prepares beſt for good duty; full bellies are fitter for reſt: Not the body ſo much as the ſoul is more active with emptineſs: thence ſolemn prayers takes ever faſting to attend it, and ſo much the rather ſpeeds in heaven when it is ſo accom<g ref="char:EOLhyphen"/>panied: It is good to dyet the body, ſo as the ſoul may be fatned. Nature pleads for liberty, Religion for abſti<g ref="char:EOLhyphen"/>nence; not that there is more unclean<g ref="char:EOLhyphen"/>neſs in the Grape then in the fountain; but that wine finds more uncleanneſs in us then water; and that high food is not for devotion, but abſtinence.</p>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:100032:9"/>
+               <head>Actions.</head>
+               <p>It is not the action, but the quality and manner thereof that is vicious.</p>
+               <p>In all actions, he that regardeth not the beginning, foreſeeth not the end.</p>
+               <p>All actions beyond ordinary, limits a ſubject to ſiniſter interpretation. In a good action it is not good to ſearch too deeply into the intention of the a<g ref="char:EOLhyphen"/>gent, but in ſilence to make our beſt benefit of the work. In an evil action it is not ſafe to regard the quality of the perſon, nor his ſucceſs, but to con<g ref="char:EOLhyphen"/>ſider the action abſtracted from all cir<g ref="char:EOLhyphen"/>cumſtances in his own kind; ſo wee ſhall neither neglect good deeds, for their ſucceſs, nor affect proſperous evils.</p>
+               <p>Every vertuous action hath a double ſhadow, according to the diverſe aſ<g ref="char:EOLhyphen"/>pects of the beholders, one of glory, a<g ref="char:EOLhyphen"/>nother of envy.</p>
+               <p>There is no word or action but may be taken with two hands, either with charitable conſtruction, or ſiniſter in<g ref="char:EOLhyphen"/>terpretation of malice and ſuſpition.</p>
+               <pb n="4" facs="tcp:100032:10"/>
+               <p>A good work is then only good and acceptable, when the action, meaning, and manner are all good; for a thing may be done in one circumſtance, but cannot be good but in all; therefore what ever buſineſs a man go about, let him enquire what he doth for the ſub<g ref="char:EOLhyphen"/>ſtance, how for the manner, why for the intention.</p>
+               <p>To conſtrue an evil act well, is but a pleaſing and profitable deceit to a mans ſelf; but to miſconſtrue a good action, is a trebble wrong, <hi>viz.</hi> to a mans ſelf, to the action, and to the Au<g ref="char:EOLhyphen"/>thor.</p>
+               <p>The inſtruments of evil actions ought to be puniſhed, whenas having recei<g ref="char:EOLhyphen"/>ved the reward of their lewdneſs, yet go about to charge others with it.</p>
+               <p>All men which are to enter into great and important actions, ought to weigh and conſider with themſelves, whether that which is undertaken be profitable for the Common-Wealth, honorable for themſelves, and eaſie to be acted, or at leaſt not greatly difficult; withall the party that perſwadeth unto it; whether beſides bare words and advice he ad<g ref="char:EOLhyphen"/>joyn
+<pb n="5" facs="tcp:100032:10"/>his own peril thereunto, yea or no: And if future good favour the action, to whom the principal glory accrueth.</p>
+               <p>It is well and rare if we can come out of a dangerous action without a foyl.</p>
+               <p>In actions let not a man do alwayes his beſt; It is neither wiſe nor ſafe for a man to ſtand upon the top of his ſtrength. Great actions require migh<g ref="char:EOLhyphen"/>ty Agents.</p>
+               <p>The unworthineſs of the Agent ma<g ref="char:EOLhyphen"/>ny times croſſes a good action.</p>
+               <p>Evil actions have oft-times good meanings, and thoſe good meanings are anſwered with evil recompences; many a one beſtowes his labour, his coſt and his blood, and receives diſgrace and torment inſtead of thanks and reward.</p>
+               <p>Actions notorious &amp; villanous, may countenance extraordinary means of proſecution: Every action that is reported, is not ſtrait-wayes allowed; If every act of a holy perſon ſhould be our rule we ſhould have crooked lines.</p>
+               <p>Oft-times the circumſtance of an action marrs the ſubſtance in divine matters, we muſt not onely look that
+<pb n="6" facs="tcp:100032:11"/>the body of our ſervice be ſound, but that cloathes be fit; nothing hinders but that good advice ſometime may fall from the mouth of wicked men.</p>
+               <p>A mans heart can beſt judge of it ſelf, others can beſt judge of his actions; hap<g ref="char:EOLhyphen"/>py is that man that can be acquitted by himſelf in private, in publique by o<g ref="char:EOLhyphen"/>thers, in both by God.</p>
+               <p>It is very ſafe for a man to look into himſelf by others eyes; in vain ſhall a mans heart abſolve him that is condemned by his actions.</p>
+               <p>It is certain that all indifferent acti<g ref="char:EOLhyphen"/>ons and behaviour of a man have an ex<g ref="char:EOLhyphen"/>tream holding and dependence, either upon virtue, or vice, according as they are uſed or ruled, for there is no middle betwixt them, no more then betwixt their rewards, heaven and hell.</p>
+               <p>It is not ſufficient for a man to have, (&amp; refrain within himſelf) never ſo ma<g ref="char:EOLhyphen"/>ny vertues and good qualities, except he imploy them and ſet them on work for the benefit of others; <hi>Virus enim la<g ref="char:EOLhyphen"/>tus omnis conſiſtit in actione.</hi>
+               </p>
+               <p>The actions and writings of every man take not-except in the matter, ſub<g ref="char:EOLhyphen"/>ject,
+<pb n="7" facs="tcp:100032:11"/>and occaſion ſome commending favoritie to happen to it.</p>
+               <p>All our actions upbraid us of folly, our whole courſe of life is: but matter of laughter, we are not ſoberly wiſe.</p>
+               <p>We commonly meaſure and cenſure all actions, and the doers of them, by the event, one is crowned for that which another is tormented, as <hi>Caeſar</hi> and <hi>Erachus.</hi>
+               </p>
+               <p>Grievous Enormities and bitter Calumnies commonly follow renown<g ref="char:EOLhyphen"/>ed actions.</p>
+               <p>Preſent actions are not with ſafety related, nor are they liſtned unto with<g ref="char:EOLhyphen"/>out danger. The actions of our anceſ<g ref="char:EOLhyphen"/>tors uſe to be examined, not to be ma<g ref="char:EOLhyphen"/>lignate; for we not emulate, but imi<g ref="char:EOLhyphen"/>tate them; We willingly liſten to the praiſe of ſuch, who (gotten long ſince out of the reach of envy,) ſeem by their deeds of fame, to raiſe the weakneſs of mortality; and faults which are found in paſt actions, diſpleaſe not, whileſt they take from us the evil opinion of the preſent times.</p>
+               <p>The action is eaſie to be effected, which hath nothing of fear in it, but
+<pb n="8" facs="tcp:100032:12"/>the act it ſelf: Great actions have need of help, elſe they will be ſuffocated by ſimplicity.</p>
+               <p>It is eaſie to add to the greatneſs of actions by words, to truth by appear<g ref="char:EOLhyphen"/>ances it is not amiſs.</p>
+               <p>The government of a State is but a ſlippery path; one only bad action is ſufficient to ruinate a Prince, who hath been raiſed up by a thouſand good ones.</p>
+               <p>A preſent good action, is able to make a paſt bad one to be forgotten, when it is thought that the like will not again be done.</p>
+               <p>Actions are not alwayes done by their agents, in an inſtant, diſpoſitions pro<g ref="char:EOLhyphen"/>ceed them, the truth of whoſe effects we do not know, becauſe the vertue of cau<g ref="char:EOLhyphen"/>ſes is unknown to us.</p>
+               <p>The ſequell of every action depend<g ref="char:EOLhyphen"/>eth for the moſt part upon the begin<g ref="char:EOLhyphen"/>ning; <hi>Dimidium facti qui bene caepit ha<g ref="char:EOLhyphen"/>bet.</hi> So forceable continually is the be<g ref="char:EOLhyphen"/>ginning, and ſo connexed to the ſequell by the nature of a precedent cauſe, that the end muſt needs erre from the com<g ref="char:EOLhyphen"/>mon courſe, when it doth not partici<g ref="char:EOLhyphen"/>pate
+<pb n="9" facs="tcp:100032:12"/>of that quality which was in the beginning.</p>
+               <p>In nature all violent actions are of ſhort continuance, and the durability, and laſting quality of all actions, pro<g ref="char:EOLhyphen"/>ceedeth from a ſlow and temperate progreſſion; ſo that the reſolutions of the mind that are carried with an un<g ref="char:EOLhyphen"/>temperate violence and favour, much heat and paſſion, do vaniſh away even with the ſmoake thereof, and brings forth nothing but leaſurable repen<g ref="char:EOLhyphen"/>tance; therefore it is beſt for men of ſuch natures to qualifie their haſty re<g ref="char:EOLhyphen"/>ſolutions, with a miſtruſtful lingering, that when their judgement is well in<g ref="char:EOLhyphen"/>formed of the cauſe, they may proceed to ſpeedy execution.</p>
+               <p>Fame is the ſpirit of a great action, &amp; maketh them memorable or unworthy by report.</p>
+               <p>The actions of men would be none at all, if they were not at firſt received in the mind.</p>
+               <p>Experience teacheth, that no action is wiſely undertaken, whereof the end is not wiſely forecaſt in the firſt place, however it is the laſt in execution.</p>
+               <pb n="10" facs="tcp:100032:13"/>
+               <p>It is great juſtice that our actions ſhould be meaſured by opinion, &amp; not by reaſon.</p>
+               <p>The nature of man is forward to ac<g ref="char:EOLhyphen"/>cept, but negligent to ſue for they can ſpend ſecret wiſhes upon that which ſhall coſt them no endeavors.</p>
+            </div>
+            <div type="part">
+               <head>Naturall Men.</head>
+               <p>It is the faſhion of naturall men to juſtifie themſelves in their own courſes, if they cannot charge any earthly thing with the blame of their own ſufferings, they wil caſt it upon heaven; that a man pleads himſelf guilty of his own wrong, is no common work of Gods Spirit.</p>
+            </div>
+            <div type="part">
+               <head>Griefe.</head>
+               <p>Griefes increaſe exceedingly, when they grow upon occaſion which hap<g ref="char:EOLhyphen"/>neth beſides all reaſon: Like as any accident which falleth beyond our ex<g ref="char:EOLhyphen"/>pectation, is more greievous, then that whereof a reaſon may be rendred, and which a man might ſuſpect to follow.</p>
+            </div>
+            <div type="part">
+               <head>Service.</head>
+               <p>Service which is received from an in<g ref="char:EOLhyphen"/>ferior,
+<pb n="11" facs="tcp:100032:13"/>argues weakneſs and challengeth great recompence; to equalize the re<g ref="char:EOLhyphen"/>compence to the benefit received, is to equalize the receiver to the benefactor; thoſe benefits which are received from a ſuperior, are willingly acknowledged, for acknowledgement is all he expects, which witneſſing the receivall of them, obliges to an addition of more.</p>
+            </div>
+            <div type="part">
+               <head>Compellation.</head>
+               <p>Sweetneſs of compellation is a great help toward good entertainment of admonition; roughneſs and rigour ma<g ref="char:EOLhyphen"/>ny times hardens thoſe hearts, which meekneſs would have melted into re<g ref="char:EOLhyphen"/>pentance; whether we ſue, or convince or reprove, little good is gotten by bit<g ref="char:EOLhyphen"/>terneſs.</p>
+               <p>Not onely the vocall admonitions, but alſo the reall judgements of God are his errands to the world.</p>
+            </div>
+            <div type="part">
+               <head>Adverſaries.</head>
+               <p>Violent adverſaries to uphold a ſide, wil maintain that which they do not be<g ref="char:EOLhyphen"/>lieve; God provides on purpoſe for his Church mighty adverſaries, that their humiliation may be the greater in ſuſ<g ref="char:EOLhyphen"/>taining,
+<pb n="12" facs="tcp:100032:14"/>and his glory may be the greater in their deliverance.</p>
+            </div>
+            <div type="part">
+               <head>Love.</head>
+               <p>It is no love that cannot make us wil<g ref="char:EOLhyphen"/>ling to be miſerable with thoſe we affect: the holloweſt heart can be content to follow one that proſpereth; adverſitie is the only furnace of friendſhip; if love will not abide both fire and envie, it is but counterfeit. All adverſity finds eaſe in complaining, and tis a comfort to relate it. Proſperity and adverſity have ever tied and untied the affections of the Vulgar. He that is fallen into ad<g ref="char:EOLhyphen"/>verſity hath not only enemies to pur<g ref="char:EOLhyphen"/>ſue him, but his friends forſake him and become his foes.</p>
+            </div>
+            <div type="part">
+               <head>Advancement.</head>
+               <p>Advancement is not alwayes a ſign of love, either to the man or to the place; ſome men are raiſed up, that their fall may be the greater; there are no men ſo miſerable as thoſe that are great and wicked.</p>
+            </div>
+            <div type="part">
+               <pb n="13" facs="tcp:100032:14"/>
+               <head>Behaviour.</head>
+               <p>Winning Behaviour, adviſedneſs and fierceneſs mingled together, ſeaſon a<g ref="char:EOLhyphen"/>ny affair excellently wel; when the win<g ref="char:EOLhyphen"/>ning behaviour appears ſufficiently, the adviſedneſs not at al, and the fierceneſs but a little.</p>
+            </div>
+            <div type="part">
+               <head>Affections.</head>
+               <p>The affections of the body may be inculpable, but not the mind's.</p>
+               <p>There is no diſpoſition ſo neer bor<g ref="char:EOLhyphen"/>dered upon vice, and leaning to it; but by the reins of prudence, may be re<g ref="char:EOLhyphen"/>ſtrained and kept in the right way: ſo there is no nature ſo neer a-kin to ver<g ref="char:EOLhyphen"/>tue, but may be corrupted by ill uſage; Therefore it is good to contemplate the affections of men, as they are attended with good or ill, and ſearch how far they may be hurtful or valuable, leaſt we immoderately praiſe ſome, and do unjuſtly undervalue others.</p>
+               <p>All living creatures by a ſecret inſti<g ref="char:EOLhyphen"/>gation, affect to be moſt doing of that thing in which they are beſt able.</p>
+            </div>
+            <div type="part">
+               <pb n="14" facs="tcp:100032:15"/>
+               <head>Angels.</head>
+               <p>
+                  <hi>Angels</hi> when they appear, are con<g ref="char:EOLhyphen"/>ceived to cloath themſelves with the E<g ref="char:EOLhyphen"/>lements. Of all Creations that are ſo near us as <hi>Angels</hi> be, God hath ſhut up the knowledge of them moſt from us in Scripture; and no man yet hath gi<g ref="char:EOLhyphen"/>ven a ſatisfying reaſon for it: Some hold that they be one of the three In<g ref="char:EOLhyphen"/>viſibles, to wit, <hi>God, Angels,</hi> and the <hi>Soul</hi> of man; all which the eye hath ne<g ref="char:EOLhyphen"/>ver ſeen their ſimple exiſtence.</p>
+               <p>
+                  <hi>Angels</hi> are ſimple and abſtract Intel<g ref="char:EOLhyphen"/>ligences and Subſtances, altogether without bodies.</p>
+            </div>
+            <div type="part">
+               <head>Antiquity.</head>
+               <p>Any man whatſoever may erre in matters of <hi>Antiquity.</hi> The ſtudy of <hi>Antiquity</hi> is a fair knowledge, which is moſt precious for the adoring of hu<g ref="char:EOLhyphen"/>mane life, and ſtrong at leaſt in plead<g ref="char:EOLhyphen"/>ing for humane oftentation. The Or<g ref="char:EOLhyphen"/>der of Dignity is to be reſpected be<g ref="char:EOLhyphen"/>fore the Order of Antiquity.</p>
+            </div>
+            <div type="part">
+               <pb n="15" facs="tcp:100032:15"/>
+               <head>Apparel.</head>
+               <p>
+                  <hi>Apparel</hi> was firſt inſtituted by God for three cauſes; firſt to hide our na<g ref="char:EOLhyphen"/>kedneſs and ſhameful parts: Next to make us more comely: And laſtly, to preſerve us from the injuries of heat and cold.</p>
+            </div>
+            <div type="part">
+               <head>Apprehenſion.</head>
+               <p>Apprehenſion gives life to croſſes. The efficacy of Gods marvellous works is not in the acts themſelves, but in our apprehenſion. Some are overcome with thoſe motives which others have con<g ref="char:EOLhyphen"/>temned for weak.</p>
+            </div>
+            <div type="part">
+               <head>Appetite.</head>
+               <p>Our Appetite muſt be curbed, our paſſions moderated, and ſo eſtranged from the World, that in the loſs of Pa<g ref="char:EOLhyphen"/>rents or Children, Nature may not for<g ref="char:EOLhyphen"/>get Grace. Whoſoever ſlackens the reins of his ſenſual appetite, will ſoon grow unfit for the calling of God. The concubiſciple and iraſcible appetite, are as the two twiſts of a Rope, mutually mixt one with another, &amp; both twining about the heart; both good if they be
+<pb n="16" facs="tcp:100032:16"/>moderate; both pernicious if they be exorbitant. If the Appetite will not obey, let the moving faculty over-rule her, and let her reſiſt and compel her to do otherwiſe.</p>
+            </div>
+            <div type="part">
+               <head>Forms.</head>
+               <p>God hath not appointed to every time and place thoſe Forms which are ſimply beſt in themſelves, but thoſe that are beſt to them to whom they are ap<g ref="char:EOLhyphen"/>pointed; which we may neither alter till he begin, nor recal when he hath alte<g ref="char:EOLhyphen"/>red.</p>
+            </div>
+            <div type="part">
+               <head>Apoſtacy.</head>
+               <p>An Apoſtate is an oppoſer of the Faith he once profeſſed, and is worſe then he that oppoſeth that which he never profeſt.</p>
+            </div>
+            <div type="part">
+               <head>Arts.</head>
+               <p>The Fame of all eminent Arts is ſtai<g ref="char:EOLhyphen"/>ned by the multitude of Artificers; and the unskilfulneſs of them; moſt of them being unable to do what they promiſe, and ſeeking their commendation onely
+<pb n="17" facs="tcp:100032:16"/>in the vain name of ſuch an Art.</p>
+               <p>Art Military is deſpiſed in time of reſt and quiet; and Peace eſteemeth a<g ref="char:EOLhyphen"/>like of the Coward and the Couragi<g ref="char:EOLhyphen"/>ous. Practiſe brings, or breeds Art, and Art obtaineth Grace. Beauty is more beholding to Art then Nature; and ſtronger provocations proceed from outward Ornaments, then ſuch as Nature hath provided.</p>
+               <p>Art can never attain to Natures per<g ref="char:EOLhyphen"/>fection, imitate it never ſo near, though our eſteem prefers it; and ſeeing it gets a little by emulation, attribute much more unto it.</p>
+               <p>The practiſe of every Art is referred to the uſe or profit, and thereby judg<g ref="char:EOLhyphen"/>ed.</p>
+               <p>Art will be diſcovered if it be often uſed, when that would be made ſeen which is not, it muſt be curiouſly done if any good be expected.</p>
+               <p>Three things are ſought in every Ar<g ref="char:EOLhyphen"/>tiſt, that is to ſay, Nature, Skill and Practiſe; his Nature to be judged of by his Wits his Skill by his Knowledge, and his practiſe by Uſe.</p>
+               <p>
+                  <hi>Edward</hi> the third brought Artiſicers
+<pb n="18" facs="tcp:100032:17"/>for mahing Cloth from <hi>Gaunt.</hi>
+               </p>
+               <p>The ſtrength of a battel conſiſteth in the Artillery and Shot.</p>
+            </div>
+            <div type="part">
+               <head>Ariſtoeracy.</head>
+               <p>Ariſtocracy is a form of a Common-Weal, wherein the leſs part of the Ci<g ref="char:EOLhyphen"/>tizens with Soveraign Power command over all the reſt.</p>
+               <p>Unthankful attempts are alwayes re<g ref="char:EOLhyphen"/>warded with grief and diſgrace.</p>
+               <p>Harmleſs counſels are good for the innocent; but in open and manifeſt vil<g ref="char:EOLhyphen"/>lanies there is no hopes of ſafety, but in audacious attempts. Foul attempts are begun with danger, and ſometimes accompliſhed with reward.</p>
+               <p>Changes are the apteſt times for grea<g ref="char:EOLhyphen"/>teſt attempts, delayes then are dange<g ref="char:EOLhyphen"/>rous; and ſoft quiet dealing draweth more evil then raſhly hazarding.</p>
+               <p>All but Athieſts, however they let themſelves looſe, yet in ſome things find themſelves reſtrained, and ſhew to others that they have a conſcience.</p>
+               <p>Every thing hath a quantity that it cannot exceed, and hath a power to at<g ref="char:EOLhyphen"/>tain to it; from the generative cauſes
+<pb n="19" facs="tcp:100032:17"/>whereof the thing it ſelf is produced; by which power (if it be not hindered) it dilateth it ſelf gradually in time till it come to the fulneſs, where it either reſteth, or declineth again as it grew up: the manner of Augmentation proceedeth from the qualities that Na<g ref="char:EOLhyphen"/>ture hath infuſed into every thing, and neither from matter or form.</p>
+               <p>Evil were as good not ſeen, as not a<g ref="char:EOLhyphen"/>voided. To fore-know and not to avoid evil, is but an aggravation of judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>Equal Authority where there is the ſelf ſame power, is commonly pernici<g ref="char:EOLhyphen"/>ous to all actions, it being impoſſible to chuſe two minds of ſo equal a temper that they ſhall not have ſome motions of diſſenting.</p>
+               <p>It is the hard condition of Authori<g ref="char:EOLhyphen"/>ty, that when the multitude fare will they plaud themſelves, when ill they repine againſt their Governors.</p>
+               <p>Authority cannot fail of oppoſition though it be never ſo mildly ſwayed.</p>
+               <p>Soveraignty abuſed is a great ſpur to outrage. The conceit of Authority in great Perſons, many times lies in the
+<pb n="20" facs="tcp:100032:18"/>way of their own ſafety, whiles it will not let them ſtoope to the ordinary courſe of nature,</p>
+               <p>There is no paſſion that doth eclipſe the light of reaſon, or ſooner corrupt the ſincerity of a good judgement, then that of anger, neither is there any mo<g ref="char:EOLhyphen"/>tion, that pleaſeth it ſelf in its own acti<g ref="char:EOLhyphen"/>ons, or followeth them with greater heat in the execution, and if the truth chance to ſhew it ſelf and convince a falſe pretended cauſe as the author of that paſſion, it often times redoubleth the rage even againſt truth and inno<g ref="char:EOLhyphen"/>cencie.</p>
+               <p>The puniſhment of baniſhing offen<g ref="char:EOLhyphen"/>ders was firſt broght into this <hi>Iſland</hi> by <hi>Edward</hi> the <hi>Confeſſor.</hi>
+               </p>
+               <p>Liberal modeſty is decent, but clouniſh baſhfulneſs is diſgraceful.</p>
+               <p>That no man ſhould be too much diſcouraged for the baſeneſs of his pro<g ref="char:EOLhyphen"/>pagation; even the baſe ſon of man may be lawfully begotten of God. King <hi>Hnery</hi> the ſecond, was ſuppoſed to be begotten of <hi>Maud</hi> the <hi>Em<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>irſſe,</hi> ſome time before by <hi>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tephen</hi> of <hi>Bloys,</hi> before ſhee was married to <hi>Geffery Plan<g ref="char:EOLhyphen"/>tagenek</hi> Duke of <hi>Anjoy.</hi>
+               </p>
+               <pb n="21" facs="tcp:100032:18"/>
+               <p>In the fifth year of <hi>Henry</hi> the eight, was a battel fought neer <hi>Floddon-Feild,</hi> between <hi>James</hi> the fifth King of <hi>Sco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> and the Kings Leivtenant of the North, the Earle of <hi>Surrey,</hi> in which the King of <hi>Scots</hi> was ſlain, and the <hi>Howards</hi> Earls of <hi>Surrey,</hi> have quartered the <hi>Scottiſh</hi> Armes ever ſince.</p>
+               <p>It is not good to tempt the fortune of a battle, unleſs there be either an offer of a ſpeciall advantage, or other<g ref="char:EOLhyphen"/>wiſe cumpulſion of neceſſity.</p>
+               <p>It is a moſt dangerous thing for a Prince to hazard his eſtate in battel, if he may by any other means make a good end, for a ſmall loſs in battle, changeth and altereth the minds of his Subjects.</p>
+               <p>The loſs of a battel traineth with it a number of inconveniences to him that is vanquiſhed.</p>
+               <p>Beaſts as well as men, do ſoon alter and baſtardiſe their affections.</p>
+               <p>Beaſts may teach us by their exam<g ref="char:EOLhyphen"/>ples, and condem us by their practiſe.</p>
+               <p>The image of the beaſt in the Revela<g ref="char:EOLhyphen"/>tion, in his diſſimulation, in ſuch as profeſs religion, and practiſe infideli<g ref="char:EOLhyphen"/>ty,
+<pb n="22" facs="tcp:100032:19"/>they fain to be what they are not, and their ſhow, (not their truth) pro<g ref="char:EOLhyphen"/>cureth them the name of Chriſtians.</p>
+               <p>Beauty is lively, ſhining or glittering brightneſs, reſulting from effuſed good; by <hi>Ideas</hi> ſeeds, reaſons, ſhaddows, ſtir<g ref="char:EOLhyphen"/>ring up our minds, that by this good they may be united and made one.</p>
+               <p>Beauty is the perfection of the whole compoſition, cauſed out of the Con<g ref="char:EOLhyphen"/>gruous Symetry, meaſure, order, and manner of parts; and that comelineſs which proceeds from this beauty is called grace, and from thence all fair things are gracious, for grace and beau<g ref="char:EOLhyphen"/>ty are annexed together</p>
+               <p>It was beauty firſt miniſtred occa<g ref="char:EOLhyphen"/>ſion to art, to find out knowledge of carving, printing, building, to find out moulds, proſpectives, rich furni<g ref="char:EOLhyphen"/>tures, and ſo many rare inventions.</p>
+               <p>Beauty is natures priviledge, a dumb comment, a ſilver fraud, a ſtill Rheto<g ref="char:EOLhyphen"/>rick that perſwades without ſpeech, a kingdom without a guard, a Tyranny that Tyranizeth over Tyrants.</p>
+               <p>In beauty that of favour is preferred before that of colours, and decent mo<g ref="char:EOLhyphen"/>tion
+<pb n="23" facs="tcp:100032:19"/>is more then that of favour.</p>
+               <p>Beauty is the g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ft of God, but given to the evil alſo, leaſt the good ſhould imagine of too great worth. All bodi<g ref="char:EOLhyphen"/>ly beauty is a congruence in the mem<g ref="char:EOLhyphen"/>bers, joyned with a pleaſing colour, and where that is not, there is ever<g ref="char:EOLhyphen"/>more diſlike, either by reaſon of defect or ſuperfluity; Beauty is of two ſorts, one wherein dignity excelleth, another wherein comelineſs; Beauty is the flower and bloſſome of vertue.</p>
+               <p>Beatitude is not attained unleſs it be affected; Beatitude conſiſts not in the knowledge of Divine things, but in a Divine life, for the Devills know more then men.</p>
+               <p>
+                  <hi>Beatitudo non eſt Divinorum cognito, ſed vita Divina.</hi>
+               </p>
+               <p>Faire beginnings are no ſound proofs of our proceedings and ending well how often hath a baſhfull childhood, ended in an impudency of youth; a ſtrict entrance in licentiouſnes, is early for<g ref="char:EOLhyphen"/>wardneſs in A theiſme.</p>
+               <p>A comely and graceful carriage, and behavior is an ornament to the vertue of brave men; but to weake ſpirits, it
+<pb n="24" facs="tcp:100032:20"/>ſerves but a vigor or naturall cover<g ref="char:EOLhyphen"/>ture, to hide or qualifie their abject and low minds.</p>
+               <p>
+                  <hi>Pope Iohn</hi> the 14 th. Chriſtened the great Bell of <hi>Lateran</hi> after his own name, he being the firſt that ever Chriſtened Bells.</p>
+               <p>It ſufficeth for a Chriſtian to believe this was, or that ſhall be, let the means alone to him, who concealeth the plain<g ref="char:EOLhyphen"/>eſt works of nature from our apprehen<g ref="char:EOLhyphen"/>ſions; more beleife ought to be given to things vvhich appear impoſſible, then to thoſe which admit of likely-hood; who would make a lye to be beleived, delienates forth a ſeeming truth, and not an impoſſibility.</p>
+               <p>The beſt rule which can be given for living in ſafety, is alwayes to fain be<g ref="char:EOLhyphen"/>leife, yet alwayes to doubt, men wil<g ref="char:EOLhyphen"/>lingly believe that which they would have come to paſs.</p>
+               <p>We honor God when we do believe him, for thereby we give him the glo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of all his attributes.</p>
+               <p>How far a thing is diſſonant, and diſ<g ref="char:EOLhyphen"/>agreeing, from the guiſe and trade of the hearers, ſo far ſhall it be out of their beleife.</p>
+               <pb n="25" facs="tcp:100032:20"/>
+               <p>King <hi>Edward</hi> the fourth, in the ſecond year of his reign, was the firſt King of <hi>England,</hi> that ever did exact mony of his ſubjects by vvay of benevolence.</p>
+               <p>In point of entering a breach, there is a little or no difference, between a ſtrong town and a weake, for the be<g ref="char:EOLhyphen"/>ſeiged in either do wholly truſt to their new and ſudden works.</p>
+               <p>The obligation of a benefit hath wholy reverence unto the will of him that giveth.</p>
+               <p>Men are more dull in felling of a good turn, then of an ill; we have not ſo ſenſible and perfect feeling of health, as we have of the leaſt ſickneſs.</p>
+               <p>Good turns or benefits are no lon<g ref="char:EOLhyphen"/>ger wel taken, then they may be re<g ref="char:EOLhyphen"/>compenced; when they grow greater then hope of requital, inſtead of thank<g ref="char:EOLhyphen"/>fulneſs they breed hatred and ill will.</p>
+               <p>Dangerous are too great benefits from a ſubject to a Prince, both for themſeves and the Prince, when they have their minds capable only of me<g ref="char:EOLhyphen"/>rit, and nothing of duty; benefits are more eaſily forgotten then injuries.</p>
+               <pb n="26" facs="tcp:100032:21"/>
+               <p>All benefits loſe much of their ſplendor, both in the giver and re<g ref="char:EOLhyphen"/>ceiver, which bear with them an exprobative tearm of neceſſitie.</p>
+               <p>It is too much niceneſs in them to forbear the benefits, they might make of the faculties of prophane &amp; here<g ref="char:EOLhyphen"/>ticall perſons, they conſider not they have more right to the good ſuch perſons can do, then they that do it, and challenge that good for their own.</p>
+               <p>The way to obtain any benefit, is to devote it in our hearts to the glo<g ref="char:EOLhyphen"/>ry of God, of whom we ask it; by this means ſhall God both pleaſure his ſervant, and honour himſelf; whereas if the ſcope of our deſires be carnall, we may be ſure either to fail of our ſute or of a bleſſing.</p>
+               <p>A Benefit that is upbraided, be<g ref="char:EOLhyphen"/>cometh burthenſome, and odi<g ref="char:EOLhyphen"/>ous, and is not thankfully accepted; <hi>Commemoratio, eſt quaſi exprobatio.</hi>
+               </p>
+               <p>Benefits are alwayes willingly re<g ref="char:EOLhyphen"/>ceived, but the benefactors are not alwayes willingly beheld: The ob<g ref="char:EOLhyphen"/>ligation which remains, ſowers the
+<pb n="27" facs="tcp:100032:21"/>ſweet of the benefit received.</p>
+               <p>All birds build their neſts towards the Eaſt.</p>
+               <p>It is a thing that ordinarily daun<g ref="char:EOLhyphen"/>teth and caſteth down the heart of a man, when he is privy to the baſe<g ref="char:EOLhyphen"/>neſs of his birth, and knoweth ſome defect, blemiſh; or imperfection in his parents.</p>
+               <p>That birth detracts from the merit of great actions, which obliges to greater.</p>
+               <p>In the 12: th. year of <hi>William</hi> the Conquerour <hi>Lanfranke,</hi> Arch-Biſhop af <hi>Canterbury,</hi> in a councill holden at <hi>London,</hi> removed certain Biſhops-See from ſmall townes as; <hi>Kirtor, Wells, Shirburne, Dorcheſter and Li<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ch<g ref="char:EOLhyphen"/>field,</hi> to townes of more eminency, as to <hi>Chicheſter, Exeter, Bath, Salisbu<g ref="char:EOLhyphen"/>ry, Lincolne and Coventry.</hi>
+               </p>
+               <p>In the 10 th. year of <hi>Hendry</hi> the firſt, <hi>Ely-Biſhoprick</hi> was founded, and <hi>Cambridge-Shire</hi> taken from the See of <hi>Lincolne</hi> and annexed to it; one <hi>Harvie</hi> was the firſt Biſhop.</p>
+               <p>In the firſt year of <hi>Richard</hi> the firſt, <hi>Hugh Pudſey</hi> Biſhop of <hi>Durham</hi> for a
+<pb n="28" facs="tcp:100032:22"/>great ſum of money was created Earl of the ſame place, the King ſay<g ref="char:EOLhyphen"/>ing <hi>he had made a young Earl of an old Biſhop.</hi>
+               </p>
+               <p>Biſhops were firſt choſen to avoid diſſention of equality.</p>
+               <p>In the two and 20. th. year of King <hi>Henry</hi> the ſecond, it was ſufficient<g ref="char:EOLhyphen"/>ly proved that all the Biſhops of <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> were ſubject to the Arch-Biſhop of <hi>York,</hi> who with the beginning of the <hi>Popes</hi> of <hi>Rome,</hi> was Primate of all <hi>Scotland,</hi> and all the Iſles of the ſame.</p>
+               <p>The 10. th. year of <hi>William Rufus,</hi> the Arch-Biſhop of <hi>Canterbury</hi> being Primate of <hi>Ireland,</hi> conſecrated <hi>Mal<g ref="char:EOLhyphen"/>chus</hi> Biſhop of <hi>Waterford,</hi> which place was mada a Biſhops-See at the ſame time.</p>
+               <p>In the 6. year of <hi>William</hi> the Con<g ref="char:EOLhyphen"/>querour, it was decreed at a Synod holden at <hi>Windſor,</hi> that the Arch-Bi<g ref="char:EOLhyphen"/>ſhop of <hi>York</hi> ſhould be ſubject to the Arch-Biſhop of <hi>Canterbury,</hi> and that the Arch-Biſhop of <hi>York,</hi> with all the Biſhops of his Province, ſhould come to ſuch a place as the Arch-Biſhop of
+<pb n="29" facs="tcp:100032:22"/>
+                  <hi>Canterbury</hi> ſhould appoint to hold a Counſell at.</p>
+               <p>It is no true Biſhop that deſireth rather to be Lordly himſelf then pro<g ref="char:EOLhyphen"/>fitable to others; <hi>Leo</hi> the fourth <hi>Pope</hi> of <hi>Rome</hi> made a decree, that a Biſhop ſhould not be condemned, but by 72. witneſſes: The good Bi<g ref="char:EOLhyphen"/>ſhops of <hi>Rome,</hi> continued almoſt 300. years, the firſt of them was named <hi>Limus.</hi>
+               </p>
+               <p>Blood is hot, ſweet, temperate, a red humor prepared in the meſe<g ref="char:EOLhyphen"/>raick veins, and made of the moſt temperate parts of the Chilus in the Liver, whoſe office is to nouriſh the whole body, to give it ſtrength and colour, being diſperſed by the veins through every part of it, and from it ſpirits are firſt begotten in the heart, which afterwards by the Ar<g ref="char:EOLhyphen"/>teries are communicated to all the o<g ref="char:EOLhyphen"/>ther parts.</p>
+               <p>The force and power which lyeth in the blood, the ſpirits and in the whole body, is that which cauſeth the diverſity of paſſions, by reaſon that the paſſible part growing out of
+<pb n="30" facs="tcp:100032:23"/>the fleſh, as from a root doth bud and bring forth with it a quality &amp; proves ſemblable</p>
+               <p>The bodies miſgriefes proceed from the ſoul, and if the mind be not firſt ſa<g ref="char:EOLhyphen"/>tisfied, the body can never be cu<g ref="char:EOLhyphen"/>red.</p>
+               <p>The corruptable body ſuppreſſeth the ſoul, and the earthly manſion keeps down the mind that is much occupi<g ref="char:EOLhyphen"/>ed.</p>
+               <p>Mans ſoul though it be immortal, dy<g ref="char:EOLhyphen"/>eth a kind of death, it is called immor<g ref="char:EOLhyphen"/>tall, becauſe it can never leave to be living, and ſenſitive, and the body is mortall, becauſe it may be deſtitute of life, and left quite dead in in ſelf, but the death of the ſoul is when God lea<g ref="char:EOLhyphen"/>veth it; and the death of the body is when the ſoul leaveth it; ſo that the death of both, is when the ſoul being left of God, leaveth the body.</p>
+               <p>
+                  <hi>Labienus</hi> of <hi>Rome</hi> was the firſt on whom the puniſhment of burning bookes, or writings, was excluded upon. Bookes are living Ideas of the Authors mind.</p>
+               <pb n="31" facs="tcp:100032:23"/>
+               <p>Something it is to have a fame go of a man; yet words are as fame, ſoon blown over, when <hi>Libera ſcripta ma<g ref="char:EOLhyphen"/>net;</hi> Books out live men.</p>
+               <p>Boldneſs or Valour is not terrified with a mans own danger, but to fear in the behalf of others, is humani<g ref="char:EOLhyphen"/>ty.</p>
+               <p>Boldneſs and fear are commonly miſplaced in the beſt hearts, when we ſhould tremble we are confident, and when we ſhoud be aſſured we tremble.</p>
+               <p>A cold and moiſt brain is an inſepe<g ref="char:EOLhyphen"/>table companion of folly.</p>
+               <p>Brevity although it breed difficulty, yet it carrieth great gravity.</p>
+               <p>Brevity when it is neither obſcure nor defective, is very pleaſing even to the choyceſt judgements.</p>
+               <p>Brevity makes counſell more por<g ref="char:EOLhyphen"/>table for memory, and eaſier for uſe.</p>
+               <p>The Browniſts ſay, they did not make a new Church, but mended an old.</p>
+               <p>The Browniſts ſeperate, for theſe four cauſes or points, A hateful Prela<g ref="char:EOLhyphen"/>cie,
+<pb n="32" facs="tcp:100032:24"/>a deviſed miniſtery, a confuſed communion, and an intermixture of errors.</p>
+               <p>The Browniſts charge Epiſcopacie with four hereſies, firſt their Canons, ſecondly ſin uncenſured, thirdly their Hyrarchy, fourthly their Service book.</p>
+               <p>The agreement of brothers is rare, by how much nature hath more en<g ref="char:EOLhyphen"/>deared them, by ſo much are their quarrells more frequent and dange<g ref="char:EOLhyphen"/>rous.</p>
+               <p>
+                  <hi>Butidius</hi> a man well qualified, and if he had taken a right courſe, a man likely to have come to honourable pre<g ref="char:EOLhyphen"/>ferment, over much haſte pricked for<g ref="char:EOLhyphen"/>wards, and at the firſt went about to out-go his equalls, then his Superiors, and at laſt of all to fly above his own hopes, which hath been the overthrow of good men, who contemning that, which by a little patience is had with ſecurity; haſten to that which gotten before his time, breedeth their ruine and deſtruction.</p>
+               <p>Buying and ſelling of men and wo<g ref="char:EOLhyphen"/>men, which was uſed in <hi>England</hi> un<g ref="char:EOLhyphen"/>till
+<pb n="33" facs="tcp:100032:24" rendition="simple:additions"/>the third year of <hi>Henry</hi> the firſt was then prohibited.</p>
+               <p>In the third year of <hi>Henry</hi> the firſt, by a Synod holden at <hi>London,</hi> it was de<g ref="char:EOLhyphen"/>creed, that all burialls ſhould be in their own Pariſh, becauſe the Prieſt ſhould loſe his <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ees.</p>
+               <p>The care of burialls, the pomp of fu<g ref="char:EOLhyphen"/>neralls and magnificent Tombs, are rather ſolaces to the living, then fur<g ref="char:EOLhyphen"/>therances to the dead.</p>
+               <p>A Canon is that which in a univer<g ref="char:EOLhyphen"/>ſal counſell is eſtabliſhed.</p>
+               <p>
+                  <hi>Innocent</hi> the fourth, was the firſt Pope that cauſed Cardinalls to wear red hats, and to ride with trappings.</p>
+               <p>A Canteed containeth a hundred Townſhips.</p>
+               <p>Nothing cometh to paſs without an efficient cauſe: There be three ſorts of cauſes naturall, voluntary, and caſual; Nothing is ended or begun without a Precedent cauſe; that cauſe can hardly riſe again, and recover grace which hath been once foyled; It is a ſign of a deſperate cauſe to make Satan our Counſellor or our refuge.</p>
+               <pb n="34" facs="tcp:100032:25"/>
+               <p>Although a man have a good cauſe, he may fail in obtaining his right by Law, unleſs he follow it earneſtly, de<g ref="char:EOLhyphen"/>fend it ſtoutly, and ſpend freely.</p>
+               <p>Thoſe things are caſual whoſe act is not premeditated by any Agent,</p>
+               <p>It is the weakneſs of good natures, to give ſo much advantage to an ene<g ref="char:EOLhyphen"/>my; Wha<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> would malice rather have, then the vexation of them whom it perſecuets? We cannot better pleaſe an adverſary, then by hurting our ſelves; this is no other then to humor envies, to ſerve the turn of thoſe that maligne us, and to draw on that ma<g ref="char:EOLhyphen"/>lice whereof we are weary; whereas careleſſneſs puts ill will out of counte<g ref="char:EOLhyphen"/>nance, and makes it withdraw it ſelf in a rage, as that which doth but ſhame the Author without the hurt of the pa<g ref="char:EOLhyphen"/>tient; in cauſleſs wrong the beſt reme<g ref="char:EOLhyphen"/>dy is contempt.</p>
+               <p>In the firſt year of <hi>Richard</hi> the firſt, the City of <hi>London</hi> received their Char<g ref="char:EOLhyphen"/>ter of freedom, and to chuſe twenty ſix Aldermen, and out of that num<g ref="char:EOLhyphen"/>to chuſe a Major to rule the reſt, alſo two Bayliffs or Sheriffs, whereas from
+<pb n="35" facs="tcp:100032:25"/>the Conqueſt, they were governed by Port-greeves.</p>
+               <p>In the 21. year of <hi>Henry</hi> the third, the King at a Parliament at <hi>Weſtminſter,</hi> comfirmed the great Charter: The 26. of <hi>Edward</hi> the firſt, the great Charter was, confirmed, and at the ſame time it was enacted, that the King ſhould not charge the Subjects with any taxes or tullages, but by Par<g ref="char:EOLhyphen"/>liament: It was alſo confirmed again in the 27. year of his raigne, with theſe words added, <hi>Salvo jure Coronae noſtrae; Edward</hi> the third confirmed the great Charter in the 15. year of his raigne.</p>
+               <p>The Duke of <hi>Orleans,</hi> the French Kings brother, challenged King <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the fourth to meet him with 100. Knights compleatly armed, againſt the like number, and the vanquiſhed to be ranſomed at the victors pleaſure.</p>
+               <p>A ſubſtantiall change is above the reach of all infernall powers, and is proper to the hand that created the ſubſtance of both.</p>
+               <p>The good creatures of God that have been prophaned to Idolatry, may in a change of their uſe be imployed the
+<pb n="36" facs="tcp:100032:26"/>the holy ſervice of their maker.</p>
+               <p>Where there is a ſetled courſe of good government (howſoever ble<g ref="char:EOLhyphen"/>miſhed with ſome weakneſs) it is not ſafe to be over forward, to a change though to a better.</p>
+               <p>The change of a Prince never hap<g ref="char:EOLhyphen"/>neth in any Realm, but it trayneth with it great troubles and ſorrows, becauſe at an alteration, men are for<g ref="char:EOLhyphen"/>ced to change &amp; alter their manners &amp; form of living ſuddenly; for that that pleaſeth one Prince diſliketh another.</p>
+               <p>It never yet hapned to anyman ſince the beginning of the World, nor ever will, to have all things according to his deſire, or to whom fortune was ne<g ref="char:EOLhyphen"/>ver oppoſite, or did change.</p>
+               <p>Great charges can hardly be go<g ref="char:EOLhyphen"/>verned without ſome indiſcreet poli<g ref="char:EOLhyphen"/>cies.</p>
+               <p>In thoſe actions whereby an offence may be occaſioned, (though not gi<g ref="char:EOLhyphen"/>ven;) charity binds us both to cleer our own name, and the conſcience of others.</p>
+               <p>As faith draws home generalities, ſo charity diffuſeth generalities from it ſelf to others.</p>
+               <pb n="37" facs="tcp:100032:26"/>
+               <p>If we may refreſh the ſoul of the poor, with the very offalls of our e<g ref="char:EOLhyphen"/>ſtate, and not hurt our ſelves; wo be to us if we do it not.</p>
+               <p>Where there is a miſconceit of God, no marvel if there be a defect of cha<g ref="char:EOLhyphen"/>rity.</p>
+               <p>The nature of charity is to unite and bind men together in all mutuall chriſ<g ref="char:EOLhyphen"/>tian offices, and it doth not only u<g ref="char:EOLhyphen"/>nite and bind men, but keeps them ſo when they are together. <hi>Charitas, eſt quaſi chare unitas.</hi>
+               </p>
+               <p>There is no matter of ſuch conſe<g ref="char:EOLhyphen"/>quence in it ſelf, but may be much gra<g ref="char:EOLhyphen"/>ced with ceremonies &amp; complements, which like Officers add much reſpect and majeſty to the action; which o<g ref="char:EOLhyphen"/>therwiſe being but boldly preſented, appeareth far meaner, and of leſs re<g ref="char:EOLhyphen"/>gard.</p>
+               <p>The vulgar uſe to cenſure him that puniſhed the fault, not him that makes it.</p>
+               <p>Wiſe men muſt care not only to de<g ref="char:EOLhyphen"/>ſerve well, &amp; to wipe off not only the crimes, but cenſures alſo.</p>
+               <pb n="38" facs="tcp:100032:27"/>
+               <p>It is not ſafe to cenſure all mens acti<g ref="char:EOLhyphen"/>ons by our own conceit, but rather to think there may be a further drift, and warrant of their act then we can attain to ſee.</p>
+               <p>It is no cenſuring of the truth of our preſent ſorrow, by the event of the following miſarriages.</p>
+               <p>We ought not to cenſure mens worths by ſingularity, but to take them carnall with all their qualities together.</p>
+               <p>Carnall men think that impoſſible to others, which themſelves cannot do; from hence ariſe their cenſures, hence their exclamations: There muſt be diſcretion, there muſt be partiality in our cenſures of the greateſt.</p>
+               <p>There be five limitations of injoyn<g ref="char:EOLhyphen"/>ed ceremonies, firſt they that be not againſt Gods word; ſecondly, that juſtification or remiſſion of ſins be not attributed unto them; thirdly, that the Church be not troubled with their multitude; fourthly, that they be not decreed as neceſſary, and not to be al<g ref="char:EOLhyphen"/>tered; fifthly, that men be not ſo tied to them, but that by occaſion they
+<pb n="39" facs="tcp:100032:27"/>may be omitted, ſo it be without of<g ref="char:EOLhyphen"/>fence and contempt.</p>
+               <p>Externall ceremonies of piety, and complements of devotion, may be well found with falſhood in religion, they are a good ſhadow of truth, where it is, but where it is not they are the very body of Hypocriſie.</p>
+               <p>In the 21. yeaar of <hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond, <hi>Cheſhire</hi> was made a principali<g ref="char:EOLhyphen"/>ty.</p>
+               <p>In children there are often preſages of vertues and vices.</p>
+               <p>Armies and Navies are not ſo ſtrong defences, and rampiers of a Princes e<g ref="char:EOLhyphen"/>ſtate, as the multitude of children-Friends with time and fortune, ſome<g ref="char:EOLhyphen"/>time by unadviſed deſires or overſights, decreaſe, and fal away from us and fade, whereas a mans own blood cleaveth faſt, and cannot be diſ-joyned, eſpecial<g ref="char:EOLhyphen"/>ly in Princes, whoſe proſperity as well may others enjoy, but their adverſity toucheth none ſo neer, but their neereſt in blood. And how ſhould brethren a<g ref="char:EOLhyphen"/>gree, if they have not an example from their father?</p>
+               <pb n="40" facs="tcp:100032:28"/>
+               <p>Children are the living goods of their parents, and therefore muſt waite up<g ref="char:EOLhyphen"/>on the beſtowing of their owners.</p>
+               <p>Such children as diſpoſe of them<g ref="char:EOLhyphen"/>ſelves without their parents, they do wilfully unchild themſelvs, and change natural affection for violent.</p>
+               <p>As it becomes not children to be for<g ref="char:EOLhyphen"/>ward in their choyce, ſo parents may not be too peremtory in their denial; it is not ſafe for children to over-run parents in ſetling their actions, nor for parents (where the inpediments be not very materiall) to come ſhort of their children, when the affections are once ſetled the one is diſobedience, the other may be tyranny.</p>
+               <p>Children do eaſily learn to contemn the poverty of their own parents.</p>
+               <p>Reverence and loving reſpects of children to parents, never yet went a<g ref="char:EOLhyphen"/>way unrecompenced; God will ſurely raiſe up friends amongſt ſtrangers to thoſe that have been officions at home.</p>
+               <p>The propagation of children belongs to the glory of marriage, and not to the puniſhment of ſin.</p>
+               <pb n="41" facs="tcp:100032:28"/>
+               <p>The fountain and root of all good<g ref="char:EOLhyphen"/>neſs and honeſty, is the good education and training up of our children in their tender age.</p>
+               <p>Children are bound to obey their parents if they be good; if bad to for<g ref="char:EOLhyphen"/>beare them; however to reverence them.</p>
+               <p>As it is good for a man to have an e<g ref="char:EOLhyphen"/>nemy, ſo it ſhall be our wiſdom to make uſe of his moſt cholerick objecti<g ref="char:EOLhyphen"/>ons; the worſt of an enemy may prove moſt ſoveraine to our ſelves.</p>
+               <p>Choller is hot and dry, bitter begot<g ref="char:EOLhyphen"/>ten of the hotter part of the Chilus, and gathered to the gall, it helps the natu<g ref="char:EOLhyphen"/>rall heat, and ſences, and ſerves to the expelling of excrements.</p>
+               <p>It was neceſſary for Chriſt the Medi<g ref="char:EOLhyphen"/>ator between God and man, to have a temporal mortality, and an eternal beatitude; to have correſpondency with mortals by the firſt, and to transfer them by eternity by the ſecond.</p>
+               <p>The dignity of Chriſts perſon being infinite, gave ſuch worth to his ſatiſ<g ref="char:EOLhyphen"/>faction, that what he ſuffered in ſhort time, was proportionable to what
+<pb n="42" facs="tcp:100032:29"/>we ſhould have ſuffered beyond all time.</p>
+               <p>Chriſt his man-hood, is the churches head, his God-head is the life and ſoul of it.</p>
+               <p>It were impoſſible the Nations ſhould deſire Chriſt to come in his glorious power to judge the world (as we ſee they do) unleſs they had been firſt u<g ref="char:EOLhyphen"/>nited in their true beleife upon him, when he came in humility to ſuffer.</p>
+               <p>Chriſts ſufferings and his life, hath not only left us the vertue of the Sa<g ref="char:EOLhyphen"/>craments but his example, whereby to direct our ſelves in all our courſes.</p>
+               <p>God the father in his perſonall pre<g ref="char:EOLhyphen"/>ſence, will judge no man, but hath gi<g ref="char:EOLhyphen"/>ven all judgement unto his ſonn, who ſhall ſhew himſelf as man to judge the world, even as he ſhewed himſelf man, to be judged of the World.</p>
+               <p>When our Saviour asked his Diſci<g ref="char:EOLhyphen"/>ples, <hi>Whom ſay men that I am? Peter</hi> an<g ref="char:EOLhyphen"/>ſwered, <hi>thou art the Chriſt, &amp;c.</hi> to whom Chriſt replied, <hi>thou art Petes, and upon this rock will I build my Church, &amp;c.</hi> meaning not ſo much upon the perſon of <hi>Peter,</hi> as upon <hi>Peters</hi> confeſſion.</p>
+               <pb n="43" facs="tcp:100032:29"/>
+               <p>
+                  <hi>Lucius</hi> King of <hi>England,</hi> and <hi>Donald</hi> King of <hi>Scotland,</hi> cotemporary Kings in this <hi>Iſland,</hi> received the chriſtian faith <hi>Anno Chriſti</hi> 203. Chriſtianity is of power to diſcover the Devills ſubtil<g ref="char:EOLhyphen"/>ty, and delight in deluding ignorant men.</p>
+               <p>Chriſtianity gives not rules but pow<g ref="char:EOLhyphen"/>er to avoyd anger.</p>
+               <p>
+                  <hi>Philippus Voſtrencis</hi> was the firſt Em<g ref="char:EOLhyphen"/>perour of <hi>Rome</hi> that profeſſed Chriſti<g ref="char:EOLhyphen"/>anity.</p>
+               <p>He is no Chriſtian whoſe ſaith is not as ſure as his ſence.</p>
+               <p>The thoughts of death in a Chriſtian, are but the throes of the ſoul to a new birth, for the ſecond life; for then chiefly a Chriſtian begins to live, when he is thought worthy to die in Chriſt.</p>
+               <p>A City taken by force, is alwayes ſubject to the Souldiers fury, but if ſur<g ref="char:EOLhyphen"/>rendered by compoſition, the Com<g ref="char:EOLhyphen"/>manders are benefited by their corrup<g ref="char:EOLhyphen"/>tion.</p>
+               <p>A City is nothing elſe but a multi<g ref="char:EOLhyphen"/>tude of men, combined in one band of ſociety.</p>
+               <pb n="44" facs="tcp:100032:30" rendition="simple:additions"/>
+               <p>That City is but in an in condition, the riches whereof conſiſts in ſome par<g ref="char:EOLhyphen"/>ticulars, and not in the publique.</p>
+               <p>In the 22 year of <hi>Henry</hi> the ſecond, in a Parliament held at <hi>Northampton,</hi> Juſtices Itenerants were inſtituted to ride the Circuits; the Realm was divi<g ref="char:EOLhyphen"/>ded into ſix Circuits, and three Judges to every Circuit.</p>
+               <p>In the 23. year of <hi>Henry</hi> the 8. the Clergy of <hi>England</hi> did grant to the King 00000 <hi>l.</hi> pounds to be good to them, becauſe they were within compaſs to be attainted by the Statute of <hi>Premuni<g ref="char:EOLhyphen"/>re,</hi> for maintaining Cardinall <hi>Woolſyes</hi> power <hi>Legantine;</hi> they alſo at the ſame time acknowledg'd, &amp; confeſſ'd the King to be ſupream head of the Church, which they would never aſſent unto before.</p>
+               <p>The opinion of Clemency is need<g ref="char:EOLhyphen"/>full, in thoſe which are to ſound a new Empire.</p>
+               <p>Far be the Sword from the hand of Princes; <hi>Clemency,</hi> not cruelty, enfor<g ref="char:EOLhyphen"/>ceth mens hearts, the latter uſ'd againſt, or alone, begets the hatred of a thou<g ref="char:EOLhyphen"/>ſand; the former is not uſed with<g ref="char:EOLhyphen"/>out
+<pb n="45" facs="tcp:100032:30"/>the addition of friends.</p>
+               <p>Private Cogitations, have their pro<g ref="char:EOLhyphen"/>greſs of ſuch a condition, that they may take neither more or leſs of for<g ref="char:EOLhyphen"/>tune; but thoſe which have raiſed their thoughts to ſublimity of dominion, a re no more in their own power, having no means to ſtep upon between the higheſt of all and precipitation.</p>
+               <p>The Cogitations of the heart, fly ſwiftly through the intrinſicall middle of our life, and leave behind in our memory ſuch impreſſions of our luſts, paſſions, wrongs, and ſufferings, that we make work enough in our minds to cover us all over with miſery.</p>
+               <p>The intermiſſion of comforts hath this advantage, that it ſweetens our de<g ref="char:EOLhyphen"/>light more in our return, then it was abated in the forbearance.</p>
+               <p>Comfort ſhall come unſeaſonably to that heart, which is not apprehenſive of ſorrow.</p>
+               <p>A mans comfort muſt be in him<g ref="char:EOLhyphen"/>ſelf, the conſcience of deſerving well.</p>
+               <p>The beſt things are but burthens to thoſe that have them, &amp; to thoſe that uſe them; the worſt things have ſome
+<pb n="46" facs="tcp:100032:31"/>mixtures of comfort to thoſe that groan under them.</p>
+               <p>A private commodity ought to yeild to a publique benefit.</p>
+               <p>No Common-Wealth can ſtand with<g ref="char:EOLhyphen"/>out equity.</p>
+               <p>As the Common-Wealth is but one body, ſo it ought to be governed but by one head.</p>
+               <p>It is a ſign of a corrupt Common<g ref="char:EOLhyphen"/>Wealth, where lawes are multiplied upon lawes.</p>
+               <p>The riches of a Common-Wealth are either natural or artificiall; natu<g ref="char:EOLhyphen"/>ral good lands, rich mines, &amp;c. Ar<g ref="char:EOLhyphen"/>tificiall are manufactures, &amp;c.</p>
+               <p>The definition of a Common-Wealth, is the eſtate of the people, <hi>Res-publica quaſi res populi.</hi>
+               </p>
+               <p>A Kingdom is the government by one; a Common-Wealth by many.</p>
+               <p>A Prince kept within bounds, a Peo<g ref="char:EOLhyphen"/>ple not corrupted, and an humble No<g ref="char:EOLhyphen"/>bility, is an excellent compoſition for a laſting Common-Wealth.</p>
+               <p>A Common-Wealth is a lawfull go<g ref="char:EOLhyphen"/>vernment of many families, and ſo that which unto them belongeth in com<g ref="char:EOLhyphen"/>mon,
+<pb n="47" facs="tcp:100032:31"/>with a puiſſant Soveraignty.</p>
+               <p>For as much as the wel-fare of pri<g ref="char:EOLhyphen"/>vate men, and all the goods of the Sub<g ref="char:EOLhyphen"/>jects are contained in the health of our Country; it beſeemeth private men without grudgeing, to forgive unto the Common-Weale, not only their private injuries received from their e<g ref="char:EOLhyphen"/>nemies, but to yeild alſo their goods for the benefit of the Common-Weale; there is three ſorts of Common-Weales: Monarchy, Democracy, A<g ref="char:EOLhyphen"/>riſtocracy.</p>
+               <p>The Common-Wealth containes each private mans eſtate, and a part muſt be put to hazard for the preſervation of the whole.</p>
+               <p>Common-ſence is the judge over all the ſences corporall, or a thing that is univerſally inherent; as for the mo<g ref="char:EOLhyphen"/>ther to love the child; and natures community are thoſe generall inclina<g ref="char:EOLhyphen"/>tions which are in all men.</p>
+               <p>A Commiſſioner is a publique per<g ref="char:EOLhyphen"/>ſon, but with an extraordinary charge to him limited without Law, by vertue of Commiſſion only.</p>
+               <pb n="48" facs="tcp:100032:32"/>
+               <p>He leaves mens minds apt to commo<g ref="char:EOLhyphen"/>tions, who takes not from them all means of defence.</p>
+               <q>
+                  <l>Tell me with what company doſt thou converſe,)</l>
+                  <l>And ſtreight I will thy deeds re<g ref="char:EOLhyphen"/>hearſe.)</l>
+               </q>
+               <p>Pitty is a compaſſion in our own hearts, of another mans misfortune, urging us, as far as our power ſtretch<g ref="char:EOLhyphen"/>eth, to relieve him.</p>
+               <p>Complaints are long muttered of the great, ere they do break forth to o<g ref="char:EOLhyphen"/>pen conteſtation; Publique accuſati<g ref="char:EOLhyphen"/>ons of authority, argues intolerable extremities of evil.</p>
+               <p>Compariſons ought not to be taken preciſely, but in reſmblance; they are not of equality, but of quality.</p>
+               <p>Peace and compoſition is for the glo<g ref="char:EOLhyphen"/>ry of the Conquerours, and for the uti<g ref="char:EOLhyphen"/>lity of the Conquered.</p>
+               <p>
+                  <hi>Pope Innocent</hi> the third who was alſo called <hi>Nocentiſſimus:</hi> was the firſt that brought in Auricular confesſion, and he was the firſt alſo that denyed the Wine in the-communion to be admi<g ref="char:EOLhyphen"/>niſtred to the Layety; he alſo ordain<g ref="char:EOLhyphen"/>ed
+<pb n="49" facs="tcp:100032:32"/>that a Bell and a Candle ſhould be carried before the Sacrament to the ſick.</p>
+               <p>Sins are ſo much the greater as they are more common, ſo far is evil from being extinuated by the multitude of the guilty, that nothing can more ag<g ref="char:EOLhyphen"/>gravate it with men; community may plead for favour, with God for judge<g ref="char:EOLhyphen"/>ment.</p>
+               <p>The rareneſs of Chriſtian Commu<g ref="char:EOLhyphen"/>nication argues poverty of grace.</p>
+               <p>The Cuſtom of giving Liſence or Conducts for Paſſage, was firſt begun in the 6, year of <hi>William</hi> the <hi>Conquerour,</hi> who prohibited the Subjects going be<g ref="char:EOLhyphen"/>yond the Seas, but by Liſence.</p>
+               <p>He that will caſt a ſtone at an offen<g ref="char:EOLhyphen"/>der, muſt be free himſelf, otherwiſe he condemns and executes himſelf in ano<g ref="char:EOLhyphen"/>ther mans perſon; the conſcience ſtops the mouth of the guilty man, &amp; choakes him with that ſin which lyes in his own breſt, and having not come forth by a penetent confesſion, connot find the way out in a reproofe, or if he do re<g ref="char:EOLhyphen"/>prove, he doth more ſhame himſelf then reform another.</p>
+               <pb n="50" facs="tcp:100032:33"/>
+               <p>Natures power is ſuch, that a Wo<g ref="char:EOLhyphen"/>man having once conceived, cannot ſe<g ref="char:EOLhyphen"/>cond any conception, untill ſhee be delivered of the firſt; it is the ſame in all other Creatures, except the Hare, and the Conney, which only conceive double upon the firſt concep<g ref="char:EOLhyphen"/>tion, and having young in their bel<g ref="char:EOLhyphen"/>lyes will conceive a freſh.</p>
+               <p>The Splendor of wit, as of all things elſe, are often ſpoyled by too great a confidence of it ſelf: Nothing but innocencie and knowledge can give a found confidence to the heart.</p>
+               <p>Confesſion of our ſins doth no leſs honour God, then his glory is ble<g ref="char:EOLhyphen"/>miſhed by their commisſion; where an act cannot be reverſed, there is no bet<g ref="char:EOLhyphen"/>ter amends then confesſion.</p>
+               <p>Gods judgements are the rack of Godleſs men, if one ſtrain make them not confeſs, let them be ſtretched but one wrench higher, and they cannot be ſilent; the juſt avenger of ſin will not looſe the glory of his executions, but will have men know from whom they ſmart.</p>
+               <pb n="51" facs="tcp:100032:33"/>
+               <p>Men had rather die then endure tor<g ref="char:EOLhyphen"/>ture, therefore extorted confesſion cannot be good.</p>
+               <p>It is both lawfull and fit in things not prohibited, to conform our ſelves to the manners and rights of thoſe with whom we live.</p>
+               <p>The ſame day fotty years, after <hi>En<g ref="char:EOLhyphen"/>gland</hi> was conquered by <hi>William</hi> the father, was <hi>Normandi</hi> conquered by <hi>William Rufus</hi> the Son, it being the 27th. of <hi>September,</hi> 1106.</p>
+               <p>A Conqueſt draweth to it the altera<g ref="char:EOLhyphen"/>tion of theſe three things, <hi>viz.</hi> Appa<g ref="char:EOLhyphen"/>rell, Law, and Language. Conqueſt is confirmed by continuing poſſeſſi<g ref="char:EOLhyphen"/>on.</p>
+               <p>The price and honour of a Conqueſt is rated by the difficulty.</p>
+               <p>A Prince that hath conquered, and joyned a ſtrange Country to his domi<g ref="char:EOLhyphen"/>ons, ought to be circumſpect what Governors he placeth there.</p>
+               <p>Conduction is that which is ſooner overcome and altered, by that which it nouriſheth; and Crudity is that which is ſtrong and hard, and will not ſuffer it ſelf to be altered.</p>
+               <pb n="52" facs="tcp:100032:34"/>
+               <p>A ſhort concluſion of long premiſſes beſt befits the memory.</p>
+               <p>
+                  <hi>Henry</hi> the eight in the 38th. year of his Raign, by his Letter commanded the Lord <hi>Gray</hi> not to demoliſh <hi>Cattil<g ref="char:EOLhyphen"/>lions</hi> Fort, but in ſecret gives him a ſpe<g ref="char:EOLhyphen"/>cial command to ruine it.</p>
+               <p>Contraries are known by one me<g ref="char:EOLhyphen"/>thod, and the privative is known on<g ref="char:EOLhyphen"/>ly by ſeperation of the knowledge of the poſitive.</p>
+               <p>Contraries are two oppoſites of one kind, as black and white both colours, moiſt and dry both qualities, but ſub<g ref="char:EOLhyphen"/>ſtances have no contraries in them<g ref="char:EOLhyphen"/>ſelves.</p>
+               <p>There be two enemies of peace; firſt, conſcience of evil done, ſecondly ſence of fear of evil ſuffered; the firſt we call ſin, the latter croſſes.</p>
+               <p>A wide conſcience will ſwallow any ſin, thoſe that have once thralled them<g ref="char:EOLhyphen"/>ſelves to a known evil, will make no difference of ſins, but by their own loſs or advantage wickedneſs once en<g ref="char:EOLhyphen"/>tertained, can put on any ſhape; truſt him in nothing that makes no conſci<g ref="char:EOLhyphen"/>ence of every thing.</p>
+               <pb n="53" facs="tcp:100032:34"/>
+               <p>Many times the conſcience runs a way ſmoothlywith an unwarrantable a<g ref="char:EOLhyphen"/>ction, &amp; reſts it ſelf upon thoſe grounds, which afterward it ſees cauſe to con<g ref="char:EOLhyphen"/>demn; it is a ſure way therefore to in<g ref="char:EOLhyphen"/>form our ſelves throughly, ere we ſet<g ref="char:EOLhyphen"/>tle our choice, that we be not driven to reverſe our acts, with late ſhame and unprofitable repentance.</p>
+               <p>Such as make conſcience of ſinning, are carefull not to be thought to ſin.</p>
+               <p>A good conſcience is no leſs afraid of a ſcandall, then of a ſin, whereas thoſe that are reſolved not to make any ſcruple of ſin, deſpiſe others con<g ref="char:EOLhyphen"/>ſtructions, not caring whom they of<g ref="char:EOLhyphen"/>fend, ſo they may pleaſe themſelves.</p>
+               <p>Thoſe which have a cleer conſcience from any ſin, proſecute it with rigour, whereas the guilty are ever partiall; their conſcience holds their hands, and tells them that they be at themſelves while they puniſh others.</p>
+               <p>The conſcience may well reſt, when it tells us we have neglected no means for redreſſing our afflictions, for then it may reſolve to look either for amend<g ref="char:EOLhyphen"/>ment or patience.</p>
+               <pb n="54" facs="tcp:100032:35"/>
+               <p>A good conſcience will make a man undauntedly confident, and dare put him upon any tryall; when his own heart ſtrikes him not, it bids him chal<g ref="char:EOLhyphen"/>lenge all the world, and take up all comers. Contrarily, he that hath a falſe and ſoul conſcience, lyes at every mans mercy, lives ſlaviſhly, and is fain to daub up a rotten peice with the baſeſt conditions.</p>
+               <p>Conſcience is the conſerver of reli<g ref="char:EOLhyphen"/>gion; it is the light of knowledge that God hath planted in man, which is ever watching over all his actions; &amp; as it beareth him a joyfull teſtimony, when he doth right, ſo it curbeth him with a feeling that he hath done wrong, when ever he commiteth any ſin.</p>
+               <p>Conſcience not grounded upon any ſure knowledge, is either an ignorant fantaſie, or an arrogant vanity.</p>
+               <p>The conſcience is a conſervation of the knowledg of the Law of God, and Nature to know good and evil; The conſcience is that which approves good or evil, juſtifying or condemning our actions.</p>
+               <pb n="55" facs="tcp:100032:35"/>
+               <p>The greateſt bliſs on earth is a pure conſcience. <hi>Nil conſcire ſibi nulla pa<g ref="char:EOLhyphen"/>leſcere culpa.</hi>
+               </p>
+               <p>There is no ſin but vexeth him in whom it is; the firſt revenge is, that no man is quit from his own guilty con<g ref="char:EOLhyphen"/>ſcience: There is leaſt danger and moſt ſafety, when mens conſciences do make concluſions for and againſt themſelves.</p>
+               <p>No man can waſh his hands of that ſin, to which his will hath conſented; bodily violence may be in-offenſive in the patient, voluntary inclination (through fear) to evil, can never be ex<g ref="char:EOLhyphen"/>cuſable.</p>
+               <p>Sin is the off-ſpring of the will, not of the body; where conſent is not, there is no ſin.</p>
+               <p>A conſtitution is a gathering and u<g ref="char:EOLhyphen"/>niting of the people together, both in one Common-Weale and Church, into a civill or divine Politie; the forme of which politie is, Order.</p>
+               <p>In <hi>Anno</hi> 682: <hi>Agathus</hi> commanded that the conſtitutions of the chief Bi<g ref="char:EOLhyphen"/>ſhop ſhould be holden for Apoſtollicall.</p>
+               <pb n="56" facs="tcp:100032:36"/>
+               <p>The church of <hi>St. Saviour</hi> in the raigne of <hi>Crathlint,</hi> founded in the Iſle of Man, was the firſt Biſhops-See that was erected in Scotland, &amp; three-upon is eſteemed the mother-church; churces are not now conſtituted but re<g ref="char:EOLhyphen"/>paired.</p>
+               <p>If the church caſt not out the known<g ref="char:EOLhyphen"/>unworthy, the ſin is hirs; but if a man will come unworthily, the ſin is his: No Element but through its mixture hath departed from its firſt ſimplicity; ſo there is no church but hath ſome error or ſin in it.</p>
+               <p>The naturall ſickneſses, that have ever troubled, and been the decay of all churches ſince the beginning of the World, changing the Candleſtick from one to another, have been pride, ambiti<g ref="char:EOLhyphen"/>on, and avarice.</p>
+               <p>We muſt be directed by the Church; but then the Church muſt be directed by the right rule, the Scripture; But if any Church (as <hi>Rome</hi>) ſhall tell the reſt any thing, that will notly even, to that rule, we may lawfully diſſent.</p>
+               <p>The fitteſt place for prayer is the church, and among the congregation,
+<pb n="57" facs="tcp:100032:36"/>eſpecially if the petition be for pub<g ref="char:EOLhyphen"/>like graces, and benefits, and not in places of ſeperation, or faction in pri<g ref="char:EOLhyphen"/>vate conventicles.</p>
+               <p>The church keeps a feaſt on no Saints birth day, except the birth day of Saint <hi>John</hi> the Baptiſt.</p>
+               <p>The church is but one body, yet the ſeveral members of it reſt in divers pla<g ref="char:EOLhyphen"/>ces, and are diſperſed into ſeveral con<g ref="char:EOLhyphen"/>gregations, which of themſelves are called churches, though they be alto<g ref="char:EOLhyphen"/>gether indeed but one church, as Saint <hi>John</hi> in the <hi>Revelation</hi> writes to the ſeaen churches, yet they were all but one church in ſeven parts.</p>
+               <p>Lingering is a kind of conſtancy; ſud<g ref="char:EOLhyphen"/>denneſs argues fear.</p>
+               <p>Conſultation is concerning things that vary and alter, and medleth not with thoſe things that be firm and ſta<g ref="char:EOLhyphen"/>ble.</p>
+               <p>The Bread and Wine by conſecrati<g ref="char:EOLhyphen"/>on, ceaſe to be common Bread and Wine, being dedicated to a ſacred uſe, and ſo the Bread and Wine are made holy ceaſing to be common; ſuch a change as this underſtood, the fathers
+<pb n="58" facs="tcp:100032:37"/>to be made in the Bread and Wine, but not as touching the ſubſtance and be<g ref="char:EOLhyphen"/>ing; but as touching the qualities, this change the reformed allow, and by ſuch a change confeſs, that the Bread and Wine are made Sacraments, which effectually by the vertue of the holy ſpi<g ref="char:EOLhyphen"/>rit, do ſignifie, preſent, ſeale, and give unto us as touching the ſoul, by the means of faith, the body and blood of the Lord.</p>
+               <p>Occaſion of contention may be gi<g ref="char:EOLhyphen"/>ven to thoſe that will contend, when he concerning whom it is, himſelf is not contentions.</p>
+               <p>Continencie in Clergie men, is not of the ſubſtance of their order, nor appointed by the law of God: Con<g ref="char:EOLhyphen"/>tinency is when reaſon ruleth concu<g ref="char:EOLhyphen"/>piſence.</p>
+               <p>Content lyes not in the things we poſſeſſe, but in the mind that values them.</p>
+               <p>Content is a rare bleſſing, becauſe it ariſes either from a fruition of all com<g ref="char:EOLhyphen"/>forts, or a not-deſireing of ſome which we have not.</p>
+               <pb n="59" facs="tcp:100032:37"/>
+               <p>God knowes how to diſperſe his fa<g ref="char:EOLhyphen"/>vours ſo, that every man may have cauſe both of thankfullneſs &amp; humiliati<g ref="char:EOLhyphen"/>on; while there is no one that hath al, no one but hath ſome; if envy and con<g ref="char:EOLhyphen"/>tempt were not thus equally tempered, ſome would be over-haughty, &amp; others too miſerable; but now every man ſees in himſelf that which is worthy of con<g ref="char:EOLhyphen"/>tempt, and matter of emulation in o<g ref="char:EOLhyphen"/>thers, and contrarily ſees what to pit<g ref="char:EOLhyphen"/>ty and miſlike in the moſt eminent, and what to applaud in himſelf, and out of this contrariety ariſes a ſweet mean of contentation.</p>
+               <p>Miſ-obſervancy differs from contempt; the one reflects upon the inſtitution, the other upon the inſtitutor; he who covertly tranſgreſſes the Laws, leaves the reputation of him that made them untoucht; he who openly offends a<g ref="char:EOLhyphen"/>gainſt them, aimes more to weaken the Prince then the Laws; errors which are occaſioned by whatſoever o<g ref="char:EOLhyphen"/>ther affection, may be great or little; thoſe which are occaſioned by con<g ref="char:EOLhyphen"/>tempt, are Gyant-like.</p>
+               <pb n="60" facs="tcp:100032:38"/>
+               <p>Frandulent conventions bind not.</p>
+               <p>Seven or eight perſons aſſembled to<g ref="char:EOLhyphen"/>gether, made a conventicle, and were prohibited firſt by act of Parliament in the fifth year of <hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond.</p>
+               <p>The partiall converſion of men to God, is but hatefull hypocriſy.</p>
+               <p>There are ſome men that take no heed what hapneth to others by bad converſation, and therefore over<g ref="char:EOLhyphen"/>throw themſelves in the ſame man<g ref="char:EOLhyphen"/>ner through the ſame fault, not foreſee<g ref="char:EOLhyphen"/>ing dangers manifeſt.</p>
+               <p>The direction and correction of a fault ought to be in ſecret.</p>
+               <p>It muſt be ſtrong evidence, that will make a ſinner convict himſelf; Nature hath ſo many ſhifts to coſen it ſelf in a ſpirituall verdict, that unleſs it be taken in the manner it will hardly yield to a truth, either ſhe will deny the fact or the fault, or the meaſure.</p>
+               <p>
+                  <hi>Henry</hi> the ſixth in the tenth year of his Raign, was Crowned the 17th. day of <hi>December</hi> King of <hi>France,</hi> in the City of <hi>Paris.</hi>
+               </p>
+               <pb n="61" facs="tcp:100032:38"/>
+               <p>Our naturall courage cannot bear us out againſt ſpirituall objects; There is nothing more eaſie then to be valiant when no peril appeareth, but when e<g ref="char:EOLhyphen"/>vils aſſail us upon unequal tearms, it is hard &amp; commendable not to be diſmay<g ref="char:EOLhyphen"/>ed.</p>
+               <p>Much is in a mans courage and diſ<g ref="char:EOLhyphen"/>creat carriage of himſelf.</p>
+               <p>All private conſiderations, muſt be extinguiſhed when the queſtion is of the good of a mans Country.</p>
+               <p>The covetous man in all things doth affect ſecreſie, and propriety.</p>
+               <p>Govetouſneſs and riot, diſſolve the bonds of all reſpect, our will ever car<g ref="char:EOLhyphen"/>rying us from our ſelves, from all awe<g ref="char:EOLhyphen"/>fulneſs and fear of lawes: covetouſ<g ref="char:EOLhyphen"/>neſs and pride are impatient of loſs.</p>
+               <p>Cruelty is ſeldom without avarice, by which if it be not cauſed, it cauſeth it.</p>
+               <p>In the 4. year of <hi>William</hi> the Con<g ref="char:EOLhyphen"/>queror, he inſtituted the courts of Chancery and Exchequer, and appoin<g ref="char:EOLhyphen"/>ted the Jury of r2. men to go upon cauſes criminall, and to deſide contro<g ref="char:EOLhyphen"/>verſies. At the ſame time he appoin<g ref="char:EOLhyphen"/>ted
+<pb n="62" facs="tcp:100032:39"/>four terms to be kept in the year, at ſuch places as he ſhould nominate; al<g ref="char:EOLhyphen"/>ſo he conſtituted Sheriffs over every County.</p>
+               <p>In the 19th year of <hi>Henry</hi> the ſeventh, the Court of Star-Chamber was erect<g ref="char:EOLhyphen"/>ed, to puniſh ſuch as offended againſt penal lawes; which Court made in<g ref="char:EOLhyphen"/>formers and promoters to ſwarme and abound.</p>
+               <p>In the raign of <hi>Henry</hi> the third, one <hi>William</hi> of <hi>York</hi> Riſhop of <hi>Salisbury,</hi> was he that cauſed the cuſtom to be re<g ref="char:EOLhyphen"/>ceived for a law, whereby the tenants of every Lord-ſhip are bound to do ſute &amp; ſervice to their Lord on whom they hold their land.</p>
+               <p>The Star-Chamber, Chancery, and court of Requeſt, have power in crimi<g ref="char:EOLhyphen"/>nall caſes to give oathes to the Defen<g ref="char:EOLhyphen"/>dant.</p>
+               <p>Princes ears and eyes are in every place, courts being full of ſpies and no<g ref="char:EOLhyphen"/>thing is hid from emulation. Court<g ref="char:EOLhyphen"/>carriages are riddles; which though ſeen cannot be reſolved without exceeding patience, and judging experience.</p>
+               <pb n="63" facs="tcp:100032:39"/>
+               <p>The Court is a common Inne for flatterers, time-ſervers and polititions, and the Courtiers life is a Gally-maufry of pride, luſt, ambition, fraud, impoſture, diſſimulation, diſtraction, and envy.</p>
+               <p>A common counſel in <hi>Henry</hi> the ſixth his time, at firſt in <hi>London</hi> conſiſted of 180 perſons.</p>
+               <p>Counſel ought not to be held holly but ſecret alſo; therefore the Alter of the God <hi>Conſus</hi> who was God of coun<g ref="char:EOLhyphen"/>ſels was hidden in the earth.</p>
+               <p>Counſel given ſhews what we ſhould do, and not what we can do.</p>
+               <p>Generall Councils may erre, and have erred.</p>
+               <p>Againſt greif it is as hard to chuſe the ſeaſon to give counſel, as to give it; the ſeaſon ſhould be after the firſt diſ<g ref="char:EOLhyphen"/>geſtion of ſorrow, and before the laſt.</p>
+               <p>All councils us well in publique, as private deliberations; require a repoſed ſpirit free from wrath, and fear; all perturbations, or particular intereſt, for as a troubled mind is more apt to erre then to adviſe juſtly, and hath more need of proper medicines for it
+<pb n="64" facs="tcp:100032:40"/>ſelf, then it hath in it ſelf to apply any comfort to others, and is fitter to re<g ref="char:EOLhyphen"/>ceive, then to give counſell; from which as from a great and violent cur<g ref="char:EOLhyphen"/>rant are carried al thoſe errors and diſ<g ref="char:EOLhyphen"/>orders, which are brought upon ma<g ref="char:EOLhyphen"/>ture deliberations, the which have com<g ref="char:EOLhyphen"/>monly long repentances, and diſaſters; but he that can reſtrain himſelf from being tranſported by intemperate ap<g ref="char:EOLhyphen"/>petites, and can rule his paſſions, and give a juſt rule to himſelf and to his de<g ref="char:EOLhyphen"/>ſires, doth give the beſt time to all de<g ref="char:EOLhyphen"/>liberations by mitigating heat and fury, ſo altereth all counſel from that nature which is received from an un<g ref="char:EOLhyphen"/>quiet and troubled mind.</p>
+               <p>No wiſe men can hold good counſel diſparaged by the means of the Author; if we be glad to receive any treaſure from a ſervant, why not precious ad<g ref="char:EOLhyphen"/>monitions?</p>
+               <p>Thoſe that can leaſt act, are oft times beſt to give counſel.</p>
+               <p>Particular diſcontents and greivan<g ref="char:EOLhyphen"/>ces, are either of the mind, the body, or fortune, which as they wound the ſoul of man, produce many inconveniencies;
+<pb n="65" facs="tcp:100032:40"/>but Drunkenneſs utterly ſubverteth the ſame, and aſtoniſheth the body.</p>
+               <p>The perpetual cuſtom of Drinking, grows by uſing it into a perpetual plea<g ref="char:EOLhyphen"/>ſure, ſtirring up the deſire of the palate, which is ever afterwards either over<g ref="char:EOLhyphen"/>flown, or thirſty.</p>
+               <p>The Drunkards ſtile begins in lawleſ<g ref="char:EOLhyphen"/>neſs, proceeds in unprofitableneſs, ends in miſery, and all ſhuts up in the deno<g ref="char:EOLhyphen"/>mination of this Pedigree, <hi>A Son of Be<g ref="char:EOLhyphen"/>lial.</hi>
+               </p>
+               <p>Drunkenneſs is a communicative Vice, and requires the emulation of Companions, wherein they ſtrive for vi<g ref="char:EOLhyphen"/>ctory.</p>
+               <p>In Drink men diſcover their Diſpoſi<g ref="char:EOLhyphen"/>tions, which they diſſemble being ſo<g ref="char:EOLhyphen"/>ber.</p>
+               <p>In the ſixth year of <hi>Richard</hi> the ſe<g ref="char:EOLhyphen"/>cond, <hi>Dunkirk</hi> was taken and ſpoyled by the <hi>Engliſh, Hugh Spencer</hi> Biſhop of <hi>Norwich,</hi> being General.</p>
+               <p>All Duels are unlawful, in that they (as it were) commit the quarrel to the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot, for the uſe of which, there is no warrant ſince the abrogating of the old Law, but it is moſt eſpecially unlawful in
+<pb n="66" facs="tcp:100032:41"/>the perſon of a King, who being a pub<g ref="char:EOLhyphen"/>like perſon, hath no power therefore to diſpoſe of himſelf, in reſpect that his preſervation or fall, the ſafety or wrack of the whole Common-wealth, is neceſ<g ref="char:EOLhyphen"/>ſarily coupled, as the body to the head. He that enters a Duel, loſes as much the opinion of Wiſdom, as he gains the o<g ref="char:EOLhyphen"/>pinion of Daring.</p>
+               <p>Great is the force of Duty once con<g ref="char:EOLhyphen"/>ceived, even to the moſt unworthy.</p>
+               <p>The Eye and the Ear, are the minds Receivers; and the Tongue and the Hand, the Minds Expenditors.</p>
+               <p>Earthly things proffer themſelves with importunity; Heavenly things muſt with importunity be ſued for.</p>
+               <p>The Earth is our Mother that brought us forth, our Stage that bears us, and our Grave wherein we are intomb'd. So ſhe gives us our Original, our Harbour, and our Sepulchre.</p>
+               <p>Gods Elect have three Sutes of Ap<g ref="char:EOLhyphen"/>pareſ <hi>viz.</hi> Black, (Mourning) Red, (Per<g ref="char:EOLhyphen"/>ſecution) White, (Glorious.)</p>
+               <p>Natural reſpects are the moſt dange<g ref="char:EOLhyphen"/>rous corrupters of all Elections; What hope can there be of worthy Superiors
+<pb n="67" facs="tcp:100032:41"/>in any free people, where nearneſs of blood carries it from fitneſs of Diſpoſi<g ref="char:EOLhyphen"/>tion?</p>
+               <p>In the year 885. <hi>Adrian</hi> the third be<g ref="char:EOLhyphen"/>ing Pope, the Emperors of <hi>Germany,</hi> who formerly elected to the Popedom, loſt their Prerogative.</p>
+               <p>In the year 998. (in Pope <hi>Gregory</hi> the fifth's time) it was agreed that the Em<g ref="char:EOLhyphen"/>perors of <hi>Germany</hi> ſhould be elected by three Biſhops, <hi>viz. Mentz, Tryers,</hi> and <hi>Cullein;</hi> and by three Princes, <hi>viz.</hi> The County <hi>Palatine</hi> of the <hi>Rhine,</hi> the Duke of <hi>Saxony,</hi> and the Marqueſs of <hi>Bran<g ref="char:EOLhyphen"/>denburgh;</hi> and in caſe the ſaid ſix cannot agree, then the King of <hi>Bohemia</hi> to have an umpiering Voice.</p>
+               <p>The reaſon why we pray Eaſtward, is becauſe Paradiſe was there planted, from whence we were caſt out: which is the reaſon alſo, that we build our Churches Eaſt and Weſt; yet the Jews had their Prieſts, that in their Sacrifices alwayes turned their faces towards the Weſt.</p>
+               <p>Education is another Nature, altering the Mind and Wit.</p>
+               <p>The beginning, midſt, and end of man's life, lyeth onely in vertuous and
+<pb n="68" facs="tcp:100032:42"/>honeſt Education, which is the very means that is opperative, and powerful for the attaining of Vertue and true Happineſs.</p>
+               <p>There is none in the World ſo wicked<g ref="char:EOLhyphen"/>ly inclined, but a religious Inſtruction and Education may faſhion a-new, and reform them; nor any ſo well diſpoſed, (the Reins being let looſe) whom the continual fellowſhip and familiarity, and the examples of diſſolute men, may not corrupt and deform.</p>
+               <p>No Element, but through mixture, hath ſeperated from its firſt ſimplicity.</p>
+               <p>When the Ancients contended againſt each other, to perſwade people to this, or that action, Eloquence had then her original.</p>
+               <p>Fame with Poſterity, is the faireſt re<g ref="char:EOLhyphen"/>ward of Eloquence.</p>
+               <p>Commonly the enmities of neareſt Kinsfolks, if once they fall out, are moſt deſpiteful and deadly.</p>
+               <p>The difference between Enmity and Emulation, is thus; Enmity hunteth after deſtruction, and onely rejoiceth in that which bringeth our Adverſary to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uine and utter deſtruction; but Emula<g ref="char:EOLhyphen"/>tion
+<pb n="69" facs="tcp:100032:42"/>(which is a ſpur to Vertue) con<g ref="char:EOLhyphen"/>tendeth only by well-deſerving, to gain the advantage of another mans Fame, that uſeth the ſame means to attain the like ends, and is alwayes mixed with love, in regard of the affinity of their affections, and the ſympathy of their deſires, not ſuffering the overthrow of their Competitor, but ſuccouring him in time of danger and calamity, that he may ſtill continue to ſhew the greatneſs of his worth, by the oppoſition of in<g ref="char:EOLhyphen"/>ferior actions, which are as a leſſer ſcantling of deſert, to meaſure the eſti<g ref="char:EOLhyphen"/>mation of the other humor.</p>
+               <p>The cauſes of the Roman Empire, were the Domeſtick Wars, the immode<g ref="char:EOLhyphen"/>rate greatneſs of the Princes of the Em<g ref="char:EOLhyphen"/>pire, and the Dignity of the Emperor, being Elective, and not Hereditary.</p>
+               <p>It is the diſſolution of an Empire if the Revenues be diminiſhed by which it is maintained, and if Cuſtoms be ta<g ref="char:EOLhyphen"/>ken away, the aboliſhing of Tribute wil be demanded.</p>
+               <p>In the ſecond year of <hi>Henry</hi> the 4th the Emperor of <hi>Conſtantinople</hi> came into <hi>England,</hi> to requeſt aid againſt the <hi>Turk.</hi>
+               </p>
+               <pb facs="tcp:100032:43"/>
+               <p>In the fifth year of <hi>Henry</hi> the eighth, the Emperor of <hi>Germany, Maximilian,</hi> ſerved under the Kings Banner, and did take pay.</p>
+               <p>
+                  <hi>Boniface</hi> the third, was the firſt that was called Pope, and he obtained of <hi>Phocas</hi> the Emperor, That the Roman Seat ſhould be called the Head of all Churches. At that time three remarka<g ref="char:EOLhyphen"/>ble things happened, The decay of the Roman Empire; The riſing of the Pope<g ref="char:EOLhyphen"/>dom; and, The ſpringing up of Maho<g ref="char:EOLhyphen"/>metiſm; Of the ruine of the Empire, theſe two Beaſts aroſe, which have much harmed the Church; and as the Empire hath decreaſed, theſe have en<g ref="char:EOLhyphen"/>creaſed.</p>
+               <p>All Philoſophy teacheth us, That man deſires an end, and that there is ſome end which every man tends to, beyond which he cannot think or hope.</p>
+               <p>In the 7th. year of <hi>Henry</hi> the fifth, by a General Councel holden at <hi>Con<g ref="char:EOLhyphen"/>ſtance,</hi> it was decreed, That <hi>England</hi> ſhould have the Title of the <hi>Engliſh Na<g ref="char:EOLhyphen"/>tion,</hi> and to be taken and reputed one of the five Nations that obeyed the Roman See.</p>
+               <pb facs="tcp:100032:43"/>
+               <p>Common Enemies muſt firſt be op<g ref="char:EOLhyphen"/>poſed, Domeſtick more at leiſure.</p>
+               <p>That which open Enemies dare not attempt, they work by falſe Brethren, and are ſo much the more dangerous, as they are more intire.</p>
+               <p>A man ought to be jealous of what<g ref="char:EOLhyphen"/>ſoever an Enemy either by ſpeech or a<g ref="char:EOLhyphen"/>ction ſhall caſt upon him, however co<g ref="char:EOLhyphen"/>lourable the reaſons may be which are alledged to induce him thereunto; for it is improbable that an Enemy (whoſe chiefeſt care is to weaken the Adverſa<g ref="char:EOLhyphen"/>ry, and to bring him to ruine) ſhould adviſe him to any thing that ſhould con<g ref="char:EOLhyphen"/>cern his good, unleſs the profit which he himſelf ſhall thereby gather, do far exceed that which the contrary part may expect.</p>
+               <p>When a man's enemy offereth him that which hath appearance of good, let him refuſe it.</p>
+               <p>God hath created nothing in this World; either man or Beaſt, without an Enemy to hold it in fear and humi<g ref="char:EOLhyphen"/>lity.</p>
+               <p>He that would undertake great En<g ref="char:EOLhyphen"/>terpriſes, had of Wiſdom and Courage;
+<pb facs="tcp:100032:44"/>Wiſdom to contrive, and Courage to ex<g ref="char:EOLhyphen"/>ecute; Wiſdom to guide his Courage, and Courage to ſecond his Wiſdom; both which if they meet with a good cauſe, it cannot but ſucceed.</p>
+               <p>Princes that deſire to continue friend<g ref="char:EOLhyphen"/>ſhip, ought not to meet and have inter<g ref="char:EOLhyphen"/>views, to avoid ſuſpition; but to hold correſpondency by wiſe Councellors.</p>
+               <p>Envy hath this good in it, that it af<g ref="char:EOLhyphen"/>flicteth thoſe extreamly that uſe it.</p>
+               <p>Envy proceeds from a baſe mind; Glo<g ref="char:EOLhyphen"/>ry follows good deſerts; Envy follows Glory.</p>
+               <p>The envious man feeds upon others evils, and hath no other Diſeaſe but his Neighbours welfare.</p>
+               <p>It is the nature of man, and a deeply rooted quality in us, ſtreightly to look into the proſperity of others with an envious eye, and to require a moderati<g ref="char:EOLhyphen"/>on of Fortune no where ſo much, as in thoſe we have ſeen in equal degree with our ſelves.</p>
+               <p>It is a thing incident, and almoſt cer<g ref="char:EOLhyphen"/>tain to all mens natures, to behold with ſore eyes the new grown felicity of o<g ref="char:EOLhyphen"/>thers, and to exact a ſharp account of
+<pb facs="tcp:100032:44"/>their Fortunes, eſpecially whom they have ſeen inferior to, or equal with themſelves.</p>
+               <p>Envy is curious, and out of the beſt perſon or act, will raiſe ſomething to ca<g ref="char:EOLhyphen"/>val at.</p>
+               <p>It is a hard thing for a man willingly and gladly to ſee his Equals lifted over his head.</p>
+               <p>Nothing can more try a mans Grace, then queſtion of Emulation.</p>
+               <p>That man hath true light, that can be content to be a Candle before the Lan<g ref="char:EOLhyphen"/>thorn of others.</p>
+               <p>Any Superiority is a mark of Envy.</p>
+               <p>Nature in every man is both envious and diſdainful, and never loves to honor another, but where it may be an honor to it ſelf.</p>
+               <p>Envy, though it take advantages of our weakneſſes, yet is ever raiſed upon ſome grounds of happineſs in them whom it emulateth; it is ever an ill effect of a good cauſe.</p>
+               <p>The malignity of Envy is thus well anſwered, When it is made the evil Effect of a good Cauſe.</p>
+               <pb n="74" facs="tcp:100032:45"/>
+               <p>Envy when it is once conceived in a malicious heart, is like fire in Billets of Juniper, which is ſaid to continue more years then one.</p>
+               <p>Envy is nothing elſe, but ſorrow for other mens good, be it preſent, paſt, or to come; and joy at other mens harms; oppoſite to mercy, which grieves at o<g ref="char:EOLhyphen"/>ther mens miſchances; and miſ-affects the body in another kind.</p>
+               <p>Every other ſin hath ſome pleaſure annexed to it, or will admit of an ex<g ref="char:EOLhyphen"/>cuſe, Envy alone wants both. Other ſins laſt but a while; the gut may be ſatisfi<g ref="char:EOLhyphen"/>ed, anger remits, hatred hath anend, but envy never ceaſeth.</p>
+               <p>That man is wife, and well adviſed, that incurreth the envy of men, for matters of greateſt weight and impor<g ref="char:EOLhyphen"/>tance.</p>
+               <p>Envy is nothing elſe, but grief for a<g ref="char:EOLhyphen"/>nother man's good, and joy for his ill, and hath his root from malice.</p>
+               <p>Envy (like poyſon) works not where it finds no hurt.</p>
+               <p>He whoſe Fortune or Valour hath made him higher then others, let him not repoſe himſelf to eyes, if he will
+<pb n="75" facs="tcp:100032:45"/>ſhun hands; otherwiſe he cauſeth envy in thoſe who ought to be his Equals, be<g ref="char:EOLhyphen"/>cauſe he hath outſtript them; fear in him who ſhould be his Superior, becauſe he equals him; Equality is the producer of Envy.</p>
+               <p>The mixture of greater and leſs is good; but that of Equals, ſtark naught.</p>
+               <p>The continuance of Error, doth in<g ref="char:EOLhyphen"/>graft depraved Opinions in the hearts of men.</p>
+               <p>Error is more tollerable in a Poet, then in a Hiſtorographer.</p>
+               <p>The Errors of one man is a ſlippery place to cauſe others to fall.</p>
+               <p>Error is commonly join'd with Cru<g ref="char:EOLhyphen"/>elty.</p>
+               <p>If Errors of practiſe ſhould be ſtood upon, there could be no true Church upon Earth.</p>
+               <p>Every Error doth not pollute all Truths; No Truth can ſanctifie all Er<g ref="char:EOLhyphen"/>rors.</p>
+               <p>Errors of judgement are more dan<g ref="char:EOLhyphen"/>gerous then Errors of practiſe; but none ſo deadly as their's that were once in the Truth.</p>
+               <pb n="76" facs="tcp:100032:46" rendition="simple:additions"/>
+               <p>Errors are never the elder for their patching; Corruption can do the ſame that age would do; We may make age as well as ſuffer it.</p>
+               <p>The beſt may err, but not perſiſt in it. When good Natures have offended, they are never quiet till they have ha<g ref="char:EOLhyphen"/>ſtened a ſatisfaction.</p>
+               <p>There be two main defects of Wit, Error and Ignorance, to which all o<g ref="char:EOLhyphen"/>thers are reduced. By ignorance we know not things neceſſary; by Error we know them falſly. Ignorance is a privation, Error is a poſitive act; from Ignorance comes Vice, from Error, He<g ref="char:EOLhyphen"/>reſie.</p>
+               <p>No man now a-days ſheweth an Er<g ref="char:EOLhyphen"/>ror, and leaveth it, man-kind is not ſo wiſe.</p>
+               <p>The Errors of ſloathfulneſs are beſt diſcerned when all diligence is boot<g ref="char:EOLhyphen"/>leſs.</p>
+               <p>They neglect their own Wiſdom who without any judgement approve the in<g ref="char:EOLhyphen"/>vention of thoſe that fore-went them, and ſuffer themſelves (after the manner of brute Beaſts) to be led by them.</p>
+               <p>It oft times hapneth, that an Error
+<pb n="77" facs="tcp:100032:46" rendition="simple:additions"/>being once raſhly committed through deſpair of remiſſion, admitteth no true penitence, but either draweth on more grievous crimes, <hi>(Scelere ſcillus luendum eſt)</hi> or maintaineth his Error by wilful obſtinacy.</p>
+               <p>It is an old Rule among Soldiers, that a great negligent Error committed by an Enemy, is to be ſuſpected as a pre<g ref="char:EOLhyphen"/>tence to Treachery.</p>
+               <p>There is no Error but hath ſome ap<g ref="char:EOLhyphen"/>pearance of reſembling Truth, which when men find out, they then publiſh to the World matter of contention and jangling, not doubting but in the varia<g ref="char:EOLhyphen"/>ble deformities of mens minds, to find out ſome Protectors or Spectators, the better by their help to nurſe and cher<g ref="char:EOLhyphen"/>riſh ſuch Libels as their own inventions have begot.</p>
+               <p>Pride and Luxury are the attendants of proſperous Eſtates.</p>
+               <p>The ſmalleſt Eſtates are to be govern<g ref="char:EOLhyphen"/>ed with the greateſt skill, as ſmall Barks in the midſt of the wide Ocean.</p>
+               <p>There is no Eſtate ſo pure or igno<g ref="char:EOLhyphen"/>ble, as can keep a man from Fame.</p>
+               <pb n="78" facs="tcp:100032:47" rendition="simple:additions"/>
+               <p>An Eſtate gotten by lend means, can<g ref="char:EOLhyphen"/>not be retained at firſt with ſudden mo<g ref="char:EOLhyphen"/>deſty, and ancient gravity.</p>
+               <p>The worſt Eſtate out of Hell, hath ei<g ref="char:EOLhyphen"/>ther ſome comfort, or at leaſt ſome mit<g ref="char:EOLhyphen"/>tigation.</p>
+               <p>The beſt Eſtate requires careful mena<g ref="char:EOLhyphen"/>ging at home.</p>
+               <p>To the overthrow of an Eſtate, of<g ref="char:EOLhyphen"/>tentimes the inconveniences concur, un<g ref="char:EOLhyphen"/>thankful Friends, decayed Friends, bad Neighbors, negligent Servants, Caſual<g ref="char:EOLhyphen"/>ties, Taxes, Mults, Loſſes of Stock, En<g ref="char:EOLhyphen"/>mities, Emulations, frequent Mutations, Loſſes, Surety-ſhip, Sickneſs, Death of Friends, and that which is the worſt of all, Improvidence, ill Husbandry, Diſ<g ref="char:EOLhyphen"/>order, and Confuſion, by which means we are drenched on ſudden in our E<g ref="char:EOLhyphen"/>ſtates, and unawares precipitated inſen<g ref="char:EOLhyphen"/>ſibly into an inextrecable Labyrinth of Cares, Woes, Wants, Grief, Diſcon<g ref="char:EOLhyphen"/>tent, and Meiancholly.</p>
+               <p>Eſſence is derived, <hi>ab ipſo eſſe,</hi> to have a being.</p>
+               <p>All things have their value from our own eſtimation<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </p>
+               <p>The moſt precious things that are,
+<pb n="79" facs="tcp:100032:47" rendition="simple:additions"/>loſe of their worth, if they be not ſu<g ref="char:EOLhyphen"/>ted with our correſpondent Natures, whoſe ſympathy addeth much more excellence then is diſcerned, when they approve by themſelves without ſuch aſſiſtance, as in the Diamond, the Foyle, and Gold.</p>
+               <p>It is never ſafe to meaſure Events by the power of the Inſtrument, nor in the Cauſes of God, to meaſure others by our ſelves.</p>
+               <p>In matters of judgement to be gui<g ref="char:EOLhyphen"/>ded onely by the Event, is the way to Error; ſo Falſhood may be Truth.</p>
+               <p>We commonly meaſure and cenſure all actions by the Event.</p>
+               <p>One is crowned for that which ano<g ref="char:EOLhyphen"/>ther man is tormented for, as <hi>Caeſar</hi> and <hi>Gracchus.</hi>
+               </p>
+               <p>In future Events men look for help from Time and Fortune.</p>
+               <p>It oftentimes happens, that a proſpe<g ref="char:EOLhyphen"/>rous Event makes fooliſh Counſel ſeem wiſer then it was.</p>
+               <p>The Evil that is ever in motion, is not fearful.</p>
+               <p>That which both Time and Eternity finds ſtanding where it was, is worthy of terror.</p>
+               <pb n="80" facs="tcp:100032:48" rendition="simple:additions"/>
+               <p>It is a rare Evil that hath not ſome<g ref="char:EOLhyphen"/>thing in it, to ſweeten it either in ſence or in hope</p>
+               <p>Evils and Sickneſſes come on Horſe<g ref="char:EOLhyphen"/>back, and go away on foot.</p>
+               <p>The beſt things ill uſed, become evil; and the worſt things uſed well, prove good.</p>
+               <p>Good and Evil in the Government of men, hath this difference betweeen themſelves, That Good, though it be brought forth by time, and though by our ſtudies and induſtries it be maintai<g ref="char:EOLhyphen"/>ned, corrupteth notwithſtanding, by degrees of it ſelf, and of it ſelf alſo ex<g ref="char:EOLhyphen"/>tinguiſheth, as we may read and ſee in the ſucceſſion and proceedings of all States, and of all Sects; the contrary of which appeareth in Evil, ſince it doth not waſte by little and little, through the wearing of time, as good doth, but rather encreaſeth to a more powerful validity, and by eaſie paſſages riſeth to the extremity of declination.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="summary">
+            <pb facs="tcp:100032:48" rendition="simple:additions"/>
+            <head>The Contents of the Booke.</head>
+            <div n="1" type="chapter">
+               <head>The firſt Chapter.</head>
+               <p>HOw Witt diſguiſed himſelfe in the habit of a Lawyer, and how by di<g ref="char:EOLhyphen"/>vers reaſons he perſwaded two Countri<g ref="char:EOLhyphen"/>men to deſiſt, and leave off going to law with their Landlords: alſo how they gave Witt halfe a peece for his counſell, and how at laſt when the two Country<g ref="char:EOLhyphen"/>men were drunke, Witt ſtole away from them and left them, ſo that the Country<g ref="char:EOLhyphen"/>men having loſt Witts company, were carried to the Counter, where Witt next morning came to them againe, and ſo af<g ref="char:EOLhyphen"/>ter they were releaſed from thence, Witt parted from them. Alſo Witts deſcription of a Taverne and a Country<g ref="char:EOLhyphen"/>man.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>The ſecond Chapter.</head>
+               <p>HOw Witt having left off his Law<g ref="char:EOLhyphen"/>yers Gowne, diſguiſes himſelfe in
+<pb facs="tcp:100032:49"/>the habit of a Cittizen, and ſo keeping company with all ſorts of people, hee obſerved and noted the natures and qualities of theſe profeſſions, namely of a Carpenter, a Bricklayer, &amp;c.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>The Third Chapter.</head>
+               <p>HOw Witt in the habit of a Cittizen kept company ſtill with Taylers, Bakers, Cookes, Smiths, Chandelers, Ioyners, Oſtlers, Watermen and the like, of whoſe qualities and properties he maketh certaine briefe Deſcriptions.</p>
+            </div>
+         </div>
+         <div type="essay">
+            <pb facs="tcp:100032:49" rendition="simple:additions"/>
+            <head>Witts Tearme.</head>
+            <div n="1" type="chapter">
+               <p>
+                  <hi>
+                     <seg rend="decorInit">Y</seg>O<g ref="char:V">Ʋ</g> two ſtand féeding of your Lawyer with fées, like two hedge ſparrowes that féede the Cuckow, and pine your ſelves;
+<note place="margin">Wits deſcri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tion of the Lavv.</note> For I will deſcrive the Law unto you briefely and faithfully: yet ſo that I will not detract from the dignity of ſo honorable a ſtudie. The Law is good in it ſelfe, and becomes evill only, when it is inherent in an evill man,
+<note place="margin">Lex eſt Reg<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>plumbea.</note> as good wine may bee corrupted by the veſ<g ref="char:EOLhyphen"/>ſell that containes it. It is like a young twigge, or a leaden ruler, which may be wrythed or bent any way: It is ſharpe and ſevere, and conſiders onely what is iuſt, without regard of equity. The caſes of the Law are infinite, and doe daily in<g ref="char:EOLhyphen"/>creaſe, for they are matters that have beene adiudged, and are now as it were the examples of the Law. A Bill in
+<pb facs="tcp:100032:50"/>Law is a tedious narration or declarati<g ref="char:EOLhyphen"/>on of the clients caſes, which is written in wide ſpreading hand to enlarge the Clarkes fees. That Action and Paſſion are two Predicaments of the law. That the motions are without motion, and as flow as the revolution of the Planet Sa<g ref="char:EOLhyphen"/>turne,
+<note place="margin">
+                        <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nnus Plato<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>cus or Pla<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>es</hi> yeare.</note> for <hi>Plato</hi> told his Schollers that when this Planet had performed his na<g ref="char:EOLhyphen"/>turall and retrograde motion, that he and they ſhould méete againe, and hee ſhould reade unto them in that manner as hée did then. Beſides, though this planet is now, yet ſtill he goeth forward; but there are many waies to delay and protract the Courts and procéeding of the Law, as Iniunctions, Billes of Reveiw and the like. That the blame is laid upon the Lawyers, when the fault is in the Cli<g ref="char:EOLhyphen"/>ents, for if they would unfold their caſes faithfully, the Lawyers would end their ſutes more ſpéedily. That Aturneyes are like Andirons that hold up their Clients as the other doth the Billetts, untill they have conſumed and waſted one another: In a word, the law is good in it ſelfe, for it makes badd men good, though ſometime as I ſaid by acci<g ref="char:EOLhyphen"/>dent
+<pb facs="tcp:100032:50"/>it make good men badd. And to con<g ref="char:EOLhyphen"/>clude the Law is like a Laborinth, you may enter in, but it is hard to finde the way out againe; And therefore good friends having given you a briefe view or proſpect into the Law, I would deſire you to change your purpoſe &amp; intention,
+<note place="margin">Witt perſvv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>deth the tvv<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Countryme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> to live at Peace</note> and not to goe to law, for it is better to live ſecurely at home, and to ſpend your time quietly among your neighbours, than to come up every Tearme to <hi>London</hi> with a great bagge or Boxe of writings at your girdle, when your ſelves doe under<g ref="char:EOLhyphen"/>ſtand néere a letter in the Hornebooke but Ho and O, or rather O Ho; and though I ſpeake againſt my ſelfe being a Lawyer (for the world doth falſely im<g ref="char:EOLhyphen"/>magine that Lawyers doe ſtrive to nou<g ref="char:EOLhyphen"/>riſh the flame of contention) yet I will diſcharge a good conſcience, and rather perſwade men to live in amitie &amp; frien<g ref="char:EOLhyphen"/>ſhip, than to contend in Law, and I doubt not but I ſhall get both love and money by it, and whi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e I make them friends, and reconcile them one to another, I hope they will prove my friends, howſo<g ref="char:EOLhyphen"/>ever <hi>Conſcientia eſt mille teſtes:</hi> the contentment and happineſſe of a good
+<pb facs="tcp:100032:51"/>conſcience is farre more precious then the friendſhip of men: And therefore honeſt Countrymen,
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>itt playes <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e honeſt avvyer.</note> you ſée that I have plaid the honeſt Lawyer, and laid open unto you the inconveniencies of going to law, ſo that I would adviſe you to agrée with your Landlord, ſubmit your ſelfe unto him, live quietly among your neigh<g ref="char:EOLhyphen"/>bours, kéepe good houſes, looke to your husbandry, ſeare God, honour the King, and doe good in your Country, ſo you ſhall live contentedly, and dye happily, for thoſe that love peace, ſhall live in peace, toy, and felicity after this life is ended.</hi>
+               </p>
+               <p>
+                  <hi>When the Country men had heard Witts diſcourſe, truth like a thorne prickt them ſo to the heart, that they both confeſt that hee had told them more then ever they heard before; that one of them who had baene Conſtable of the Towne, and therefore could ſpeake with ſome in<g ref="char:EOLhyphen"/>diſcretion began thus:</hi>
+               </p>
+               <p>
+                  <hi>Sir, you have made ſuch a reſcription of going to law, &amp; how unfit it is for us In<g ref="char:EOLhyphen"/>grant men to follow the law, ſo that wée intend to leave it off and follow the Plough, for our ſtomackes are now rea<g ref="char:EOLhyphen"/>ſonably well allayd, and therefore we de<g ref="char:EOLhyphen"/>ſire
+<pb facs="tcp:100032:51"/>you accept of this halfe péece for your fée, for your counſell ſhall ſave us many a pound, and beſides wee have a quart of wine for you if you pleaſe to goe to the Taverne. Witt thanked them, and told them that albeit it was not his uſuall cuſtome to be ſéene in Tavernes, eſpecially not to tarry there long, yet hée would diſpence with other affaires, to give them content,
+<note place="margin">Witt and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> two Count<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>men go to t<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> Taverne.</note> and ſo Witt and the two Countrymen went to the Taverne together, but aſſoone as the drawer ſpide Witt, hee preſently gave him the</hi> biene venu <hi>or welcome, &amp; ſtraightway brought him to one of the beſt roomes, and then he told him, that the night before there was like to have beene a bloody fray for lacke of your worſhippes company, for as ſoone as you were gone, ſome beganne to commend you, and to ſay, that maſter Witt was as fine a merry a companion as any in Europe: others againe reply<g ref="char:EOLhyphen"/>ed that you were a foule companion, that would give diſtaſte in all companies, and had rather looſe your friend than your ieſt; and this was maintained and ar<g ref="char:EOLhyphen"/>gu'd</hi> pro <hi>and</hi> con, <hi>ſo that at length they had proved it by breaking one anothers
+<pb facs="tcp:100032:52"/>heads with quart potts, if my Maſter had not moderated the matter, for aſſoone as you left them, they were quite gone. It is no wonder ſayes Witt that they were gone in drinke aſſoone as I was gone from them, for I doe alwaies ſtay with my friends as long as I can, but when I perceive that the ſtrength of the drinke beginnes to worke upon their braines, then I ſteale from them, ſo that I ſtay not untill the reckoning comes to be paid, whereupon they being in drinke, and wanting me to make the reckoning, doe often fall out and quarrell, either about that, or ſome other occaſion. But to leave off this diſcourſe, prethee drawer bring us a quart of rich canarie, for my ſelfe and my friends, ſuch as I and the Witts drinke, if thou canſt draw us a ruppe of Nectar, lets have it. Sir, ſaies the draw<g ref="char:EOLhyphen"/>er, you ſhall have of the beſt; for I ſhould prove my ſelfe an ignoramus if I ſhould bring you any but the beſt. Well (ſayes Witt) fly then like a winged ſpirit to the bottom of the Seller and fetch it, and ſo</hi> exit <hi>drawer and drawes the curtaine lea<g ref="char:EOLhyphen"/>ving Witt and the Countrymen toge<g ref="char:EOLhyphen"/>ther, who began to diſcourſe thus unto
+<pb facs="tcp:100032:52"/>them:
+<note place="margin">
+                        <hi>Ingeniumeſt paciſicum.</hi> Witt is a Peacemake<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> you ſée (honeſt friends that I en<g ref="char:EOLhyphen"/>deavour to make peace whereſoever I come, for there is never any quarrelling in Tavernes or Alehouſes if I be there, but aſſoone as I goe, then they fall out about the Arithmeticke of their recko<g ref="char:EOLhyphen"/>ning, or the wrong apprehenſion of ſome word, ſo that the miſtaking of a word is many times taken amiſſe, and then they are ſo farre enrag'd, that in ſtead of other complements,
+<note place="margin">The deſeri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tion of a drunken qua<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> rell.</note> they ſalute one anothers heads with quart pots, the glaſſes are broken, the tables overthrowne, the can<g ref="char:EOLhyphen"/>dles are extinguiſht, and the Tobacco<g ref="char:EOLhyphen"/>pipes are throwne in one anothers faces, and thus their kindneſſe (aſſoone as I for<g ref="char:EOLhyphen"/>ſake their company) ends in a drunken quarrell. By this time they might heare the eccho of the drawers voyce, who cryd, ſcore a quart of canary in the halfe moone, and no ſooner had hee ſpoke thoſe words but he came flying in, and having filled a glaſſe and delivered it to Witt, hee heard them knocke in another roome, ſo that he vaniſht and left them.
+<note place="margin">Witt drink a health to friends.</note> And now being alone, Witt firſt dranke to the Countrymen with a complement, telling them that he would commemorate all his
+<pb facs="tcp:100032:53"/>and their friends in the Countrey, both Gentlemen, Yeomen, and merry Vi<g ref="char:EOLhyphen"/>cars, &amp; alſo his kind friends in the foure Innes of Court, and alſo in the two Vni<g ref="char:EOLhyphen"/>verſities of</hi> Oxford <hi>and</hi> Cambridge, <hi>and in generall to all his friends <hi>vbicunque,</hi> or wherſoever. The Countrymen replyed that they would pledge his worſhip with all their hearts. Nay (ſaies Witt) I be<g ref="char:EOLhyphen"/>ſéech you not to worſhip mée, for it is a title which I neither deſerve, nor deſire, though I have béene borne and brought up as a Gentleman,
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>tt reſpect<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> by Gentle<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> and <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ights. <hi>
+                           <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> habet in<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ium inimi<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap> niſi igno<g ref="char:EOLhyphen"/>
+                           <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>tem.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>itt hath no <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>emy but ig<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>rance.</note> and am reſpected both by Gentlemen and Knights, for I was well acquainted with Sir</hi> Phillip Sidney <hi>when he writ his Arcadia, and ſir</hi> Iohn Harrington <hi>when hee compoſed his merry Epigrams; and indéede there is none accompliſht Gentleman that doth not deſire my company, you muſt pardon me if I praiſe my ſelfe, for it is given to us that are the family of the Witts to bée ſelfe conceited, and to ſet too high a price on our gifts, but to ſet a period to my ſpéech, I drinke to you both moſt kind and honeſt countrymen, for to diſcover the truth unto you, I am no Lawyer; Law is too obtuſe, and blunt a ſtudie for
+<pb facs="tcp:100032:53"/>me, for though I diſſembled the matter my name is Witt, and I am as ioviall a companion as the beſt of them all,
+<note place="margin">There is n<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> good ſocie<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> unleſſe Wit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> be in compa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ny.</note> for indeede there is no good ſociety or mirth without I be in company. Your Gal<g ref="char:EOLhyphen"/>lants will never viſit a Taverne but they will carry mee with them, though they can not bring me backe againe, ſo that they are faine at night to goe to their Lodging without mee, but the next mor<g ref="char:EOLhyphen"/>ning I viſite them againe with an early ſalutation; and then they give mee my mornings draught according to the time and ſeaſon of the yéers. But I will not bee tedious in my diſcourſe for I affect brevity, and is not this harmeleſſe mirth far better than to goe to Law, had not wee better drinke our ſelves, than to make the Lawyers and their Clarkes drinke wine upon our coſt, and therefore good Countrymen I doe commend my love unto you in this glaſſe of wine. They both thanked him, and thus they continu<g ref="char:EOLhyphen"/>ed drinking, but as Mercury with the ſwéetneſſe of his pipe did enchant</hi> Argus <hi>his hundred eyes, ſo Witt with pleaſant diſcourſes drew on the Countrymen into ſuch a kinde and laving humour, that
+<pb facs="tcp:100032:54"/>they began to drinke to Witt with ſuch rurall Complements,
+<note place="margin">
+                        <hi>Vinum, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nollit meres <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>o ſinit eſſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>ors.</hi> 
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ine ſoftmeth <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>r nature <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d condition <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>nd giveth us <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gentle diſpo<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion.</note> and dunſtable be<g ref="char:EOLhyphen"/>haviour, ſo that Witt could not chuſe but ſmile to ſée how the wine did molliſie and ſoften their rude nature, inſomuch that with great ſtore of nonſence and countrey complements, they began to bée ſo over-kind to Witt, that they would néedes drinke his miſtreſſes health, but Witt told them that hee honored no Mi<g ref="char:EOLhyphen"/>ſtreſſes but vertue,
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>o eate ſome <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>de modi<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>m when <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>u are drin<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ag is the <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>y to make <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>tt ſtay in <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur company</note> and deſired them not to prophane her name by any idle health, but Witts perſwaſions could not re<g ref="char:EOLhyphen"/>ſtraine them from their troubleſome kindneſſe, ſo that in hope they ſhould per<g ref="char:EOLhyphen"/>ſwade Witt to ſtay with them, they would needes have a Vice or two of a Gammon of Bacon, which was ſtraight brought them with all expedition, and Witt ſtayed with them a while, but when they had done,
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>o much <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>nking <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ds Witt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>king.</note> one of the Country<g ref="char:EOLhyphen"/>men would néedes have a quart of Sacke to drive downe their bacon, but this quart ſent Witt packing, ſo that he ſlipt away from them, neither could they diſcerne how hee went away from them, for they were ſo blinde, that they immagined that Witt was ſtill in their company, and
+<pb facs="tcp:100032:54"/>the Drawer could not perſwade them hée was gone, ſo that after Witt had left them hee was much troubled with theſe two countrey fellowes, for one of them by chance brake a venice glaſſe and would by no me anes be perſwaded to pay for it, and the others ſtomack began to recoyle, ſo that hee caſt up his reckonings in the chimney; but at laſt with much a doe, having got what they would of one of them for breaking the glaſſe, they thruſt out theſe two Annimales out of the Ta<g ref="char:EOLhyphen"/>verne doore, where one of them reeled a<g ref="char:EOLhyphen"/>gainſt the other, and both of them a laſt fell in the Kennell, but getting up againe they thought to go to Witts lodging to en quite of him what was the ſigne of the Iune where they lay,
+<note place="margin">To two C<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> try men tal<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> by the Wat<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                     </note> but they were ſo drunke that they could not find his cham<g ref="char:EOLhyphen"/>ber; ſo that they fell into the Conſtables hands, and becauſe they gave him tude words and churliſh anſwers, hee carried them both to the Counter,
+<note place="margin">Witt viſite<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> them next morning in the Count<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </note> where they lay that night, but in the morning aſſoone as Witt underſtood that his friends were in the Counter he came again to them very early in the morning, and began to excuſe himſelfe for leaving them overnight: for
+<pb facs="tcp:100032:55"/>ſayes hee, when I ſée men begin to grow idle in their drinke, and to call for more than will doe them good, then I cannot endure to ſtay with them any longer. And therefore becauſe I have other af<g ref="char:EOLhyphen"/>faires, ſo that I kéepe you company any longer, I will give you ſome friendly ad<g ref="char:EOLhyphen"/>vice.
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ts adviſe <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>he Coun<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>men at <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ing.</note> Firſt, beware of geing to Law, leaſt you pay for your expence when it is too late: ſhunne idle company, beware of Dice, Drabs, and Drunkenneſſe: En<g ref="char:EOLhyphen"/>ter not into Bond, make not your wives your maſters, in company be merry and wiſe, conſider of every action before hand what will follow afterward, cut your coate according to your cloath, eſtéeme not all offers of friendſhip, but miſtruſt faire words, kéepe money and make it your ſervant not your maſter, let not your friend know all your minde, but reſerve a péece to thy ſelf, for a friend may become a foe, moderate thy paſſions, governe thy ſelf and then thou ſhalt be able to governe thy houſhold and family: this is my counſell, and now I hope Witt hath proved him<g ref="char:EOLhyphen"/>ſelf no pettifegger, but an honeſt lawyer, for I have given you my frée opinion concerning the Law, yet not diſgracing
+<pb facs="tcp:100032:55"/>that ſtudie in any kinde, and I have ſhewed you the inconveniences which a<g ref="char:EOLhyphen"/>riſe by contentions, ſuites, &amp; have given you ſome brtefe notes of inſtruction. In a word I wiſh you both as well as my ſelfe, and if you love mee I wiſh you to leave of drunkennes, for I cannot indure it, it ſpoyles my braines, for albeit I can and doe keepe company with all ſorts of men, yet I never ſtay with them till they are drunke, and (though I ſpeake it in my owne behalfe) yet I can prove that I endeavour to reſtraine men from vains and idle courſes, whereunto they doe often runne through their owne folly, I will therefore goe along with you from the Counter to the Iuſtices, and after hée hath diſcharged you, I will take my leave of you and commit you to the pro<g ref="char:EOLhyphen"/>tection of your owne good fortunes: And ſo after the Iuſtice had releaſed them, Witt directed them the readieſt way to their Inne, and ſo left them: And thus you ſée how Witt got a fée of theſe two Country fellowes, and in ſlead of plea<g ref="char:EOLhyphen"/>ding for them, he perſwaded them to live at peace, and leave off going to Law, which ſheweth that if more had witt they
+<pb facs="tcp:100032:56"/>would not be contentious:
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>itt &amp; good <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ellowſhip are <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>iends, but <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>itt &amp; drun<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ienneſſe are <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>es.</note> and laſtly you may behold how Witt and drunkeneſſe cannot agrée, for they are contraries, and</hi> contrara ſe mutuò expellunt, <hi>contraries doe one expell the other; for as water quenches fire, ſo drinkes downes and ex<g ref="char:EOLhyphen"/>tinguiſhes the witt. And Witts councell which he gavo the countrymen ſheweth, that want of a fore-Witt brings woe; for</hi> anté cuvere debet, qui non dolebit, <hi>hée that would not fall into miſerfe or want, muſt be wiſe beforehand: and ſo much concerning Witts firſt practiſe, his ſecond practiſe followes, but to re<g ref="char:EOLhyphen"/>freſh the reader I will inſert ſome verſes, which Witt made by way of obſervation on a Taverne, and the nature and diſpo<g ref="char:EOLhyphen"/>ſition of a Countryman, which may ſerve as Charactericall diſcriptions of them both.</hi>
+               </p>
+               <lg>
+                  <pb facs="tcp:100032:56"/>
+                  <head>A Taverne.</head>
+                  <l>A Taverne is a place which <hi>Bacchus</hi> trayne<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>Frequent, and drinke till wine doe them inflame<g ref="char:cmbAbbrStroke">̄</g>
+                  </l>
+                  <l>It is a place where ancient friends doe ſhew</l>
+                  <l>Their love; on this ſtage you may clearely view</l>
+                  <l>Divers conceited humours which are plaid</l>
+                  <l>By ſerveral companies, or it is the mint</l>
+                  <l>Where Witt doth coyne his fancies, for a print</l>
+                  <l>Of wine more readily inſpires the braine</l>
+                  <l>Then water though from <hi>Hellicon</hi> it came.</l>
+                  <l>Some talke of forraine matters and wonders</l>
+                  <l>Of a deepe apprehenſion, who have beene</l>
+                  <l>Perhaps at <hi>Callis,</hi> while on a faire day</l>
+                  <l>Their ſhipps through the calme ſeas did cut her w<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </l>
+                  <l>The Channells alwaies burne in ſtead of paper</l>
+                  <l>To light Tobacco which is a rich vapour.</l>
+                  <l>Heere loving friends with weeping eyes doe par<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>While they expreſſe the affection of their heart</l>
+                  <l>In a full cup, and with kind words commend</l>
+                  <l>Themſelves unto their loving abſent friend.</l>
+                  <l>It is a Chappell, where divers every day</l>
+                  <l>At <hi>Bachus</hi> Alter pay, but doe not pray.</l>
+                  <l>I doe not hate a Taverne nor the wine</l>
+                  <l>Yet Ile ſhun expence, and waſting of my time.</l>
+                  <l>In ſuch a place, I doe allow the uſe</l>
+                  <l>Of both, but diſapprove their foule abuſe.</l>
+                  <pb facs="tcp:100032:57"/>
+                  <l>Drinke in a Taverne for thy recreation</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ut dwell not there, nor makt thy habitation.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r a Taverne is a place where men nere ceaſe</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> keepe a Leaguer in the times of peace.</l>
+               </lg>
+               <lg>
+                  <head>A Countryman.</head>
+                  <l>A Countryman is blunt in ſpaech and action</l>
+                  <l>Yet he is given much to ſuites and faction.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>e doth not cheate his friend with the ſmoth art</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>f flattering words, but ſpeaks even from his heart.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is countenance is cheerefull; and his cloathes</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>laine like his meaning, nor with ſwaggering oaths</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>oth pay his debts, nor make his trembling hoſt</l>
+                  <l>Glad to write downe his reckoning on a poſt.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is conſcience is free, and he doth wonder</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hy guiltie men doe feare a clap of thunder.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>s bloody <hi>Nero</hi> who would hide his head</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hen it did thunder underneath a bed.</l>
+                  <l>Content is, his chiefe riches and his wealth;</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hile the freſh ayre doth keepe him in good health.</l>
+                  <l>His life is harmeleſſe, ſtriving not to gaine</l>
+                  <l>Ambitious honour, or to purchaſe fame.</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>he ſight of a milch cow or a greene field</l>
+                  <l>Doe pleaſe him highly, and much ſolace yeeld.</l>
+                  <l>Into his minde, while he doth plodding goe</l>
+                  <l>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lad in courſe ruſſet, which doth plainely ſhow</l>
+                  <l>How little he eſteemes of pride, or faſhions</l>
+                  <l>Which are brought over out of forraine nations:</l>
+                  <pb facs="tcp:100032:57"/>
+                  <l>And when pale death commands him to reſigne</l>
+                  <l>His life, then doth his reſolution ſhine</l>
+                  <l>Even like the Sunne, whoſe gliſtering beames a pea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>When it is going downe moſt bright, and cleare.</l>
+                  <l>He does repoſe ſmall truſt in the Phyſitian</l>
+                  <l>In his ſickneſſe, for it is his chiefe ambition</l>
+                  <l>To preferre his ſoule, that it may mount the ksies<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>And have a place in heaven when he dyes.</l>
+               </lg>
+            </div>
+            <div n="2" type="chapter">
+               <head>
+                  <hi>Chap.</hi> 2. <hi>How Witt having put off his Lawyers Gowne, diſguiſed himſelfe in the habit of a Citizen, and ſo keeping company with all ſorts of people, hee obſerved and noted their Perſons, their humours, qualities, and fa<g ref="char:EOLhyphen"/>ſhions, of which he makes certaine briefe diſ<g ref="char:EOLhyphen"/>criptions.</hi>
+               </head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Hen Witt was delivered from the company of thoſe two country fellowes,
+<note place="margin">Witt diſgu<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> himſelfe <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> a Citizen.</note> who<g ref="char:cmbAbbrStroke">̄</g> he perſwaded before to live in peace and amity with their neighbours and Landlord, hee left off playing Ignoramus in his Lawyers Gowne, and diſguiſed himſelfe in the ha<g ref="char:EOLhyphen"/>bit of a Citizen, that thereby hee might
+<pb facs="tcp:100032:58"/>without ſuſpicion converſe, and kéepe company with all ſorts of people, and obſerve their humours, and faſhions. And in ſtead of being <hi>togatus</hi> a gowned man, he became</hi> civis penulatus, <hi>a cloaked Citizen, yet not like one of the ſupertour rancke of Citizens, but one of the inferior ſort, being thus very neately apparelled in a cloake, and ſtockings and ſhwes, ſometimes Witt wonld weare a Ruler by his ſide, and then hee was ſuppoſed to be a Carpenter, Bricklayer, or Plaſterer, ſometimes he would have a hammer un<g ref="char:EOLhyphen"/>der his girdle, and then he was taken for a Smith or Vpholſterer, or a Peuterer, or ſome other Hammer man, ſometimes he would have a Parchment meaſure in his pocket, or ſome patterne to cut out by, and then hee went for a Taylor, ſome<g ref="char:EOLhyphen"/>times he would put on a gréene waſtcoate and ſprinckle his face with meale, and then hée was ſuppoſed to bee a Miller, a Mealeman, or a Baker: ſometimes he would blacke his fingers with ſhooma<g ref="char:EOLhyphen"/>kers war, and weare a Shoomakers thimble ou his finger, and then he was thought to bée a Shoomaker or a Cob<g ref="char:EOLhyphen"/>ler. Sometimes he would get on a frock,
+<pb facs="tcp:100032:58"/>and then hee was a Porter. And ſome<g ref="char:EOLhyphen"/>times hee would put on a Watermans Iacket, and then he was a Sculler. And to conclude Witt by the helpe of his friend the broaker would ſhift &amp; change himſelfe into all ſhapes and habits, and ſo converſing and kéeping company with all ſorts of people, hee could not chuſe but have matter enough for his obſervation, which was that which hee deſtr'd, for the end and ſcope of his intention was to ob<g ref="char:EOLhyphen"/>ſerve and take notiſe of the faſhions and carriages of the cittie, eſpecially in the Terme time, for hee knew that the body politicke was then moſt full of humours, whereupon Witt being thus diſguiſed in the habit of a Citizen, and having a Carpenters Ruler by his ſide, hée went forth into the Cittie, to ſée whe<g ref="char:EOLhyphen"/>the blind Fortune would conduct him, intending as I ſaid in a merry manner to practiſe on the ignorance,
+<note place="margin">Witts ſeco<g ref="char:EOLhyphen"/>practiſe.</note> and weake<g ref="char:EOLhyphen"/>neſſe of the People, and ſo walking through the Cittie as</hi> Diogenes <hi>did through</hi> Athens <hi>with Candle and lan<g ref="char:EOLhyphen"/>thorne, hee changed at laſt to paſſe by the red lattice of an Alehouſe, where it ſeemes the ſtrong drinke began to work
+<pb facs="tcp:100032:59"/>in their braines, ſo that they were ſin<g ref="char:EOLhyphen"/>ging merry catches, and roaring like Bulles of Baſan, ſo that Witt looking up, and perceiving it was the ſigne of the Anchor, hee thought to caſt Ankor héere a while. And ſo comming in hée found theſe were the Alehouſe quiriſters, whoſe voyers hee had heard, namely, two Carp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nters, a ſtone cutter, a brick<g ref="char:EOLhyphen"/>layer and the hoſt of the houſe, whereup<g ref="char:EOLhyphen"/>on Witt calling for a full pot or double pot of Ale preſently inſinuated himſelfe into their company, and having a ruler under his girdle, one of them asked him of what profeſſion hee was: Witt an<g ref="char:EOLhyphen"/>ſwered that he was</hi> aedificiorum vel do<g ref="char:EOLhyphen"/>muum Fabricator, <hi>that is in b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iefe, hee was a Carpenter: whereupon the two other Carpenters told him that hee was the more welcome, and likewiſe the ſtone-cutter, the bricklayer and the hoſt, did all bid him welcome, and having dranke to him with ſome drunken com<g ref="char:EOLhyphen"/>plement, one of them who had got the hickocke would néedes tell him a very ſerious ſtory, but Witt put him out by drinking unto him, ſo that hee aſſoone as hee had pledg'd him, was faine to goe
+<pb facs="tcp:100032:59"/>forth and utter his minde in the yard,
+<note place="margin">The humou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> of a Drunk<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ard.</note> where he had no audience, but a few old tubbes and other rubbigge which ſtood there. But at laſt hee comes in againe, like a drunken Penitent, while ſinne and drunkenneſſe did even enforce him to wéepe for ſinne, for his eyes were full of water, which he wiped with his hand<g ref="char:EOLhyphen"/>kercher, and then hee ſet himſelfe freſh<g ref="char:EOLhyphen"/>ly to drinking and began a catch, while ſome of the reſt boare their parts; ſo that Witt thought it a helliſh harmony, for he could not relliſh ſuch vulgar ſtuffe, and therefore hee buſied himſelfe with taking a pipe of Tobacco, which hee thought was a more gentile muſicke than their rude voyces.
+<note place="margin">Wits medita<g ref="char:EOLhyphen"/>tion on a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Alehouſe.</note> And while hée was taking his Tobacco hee drew theſe meditations which hee kept in memory untill hee had opportunity to write them downe in his table-booke. His firſt meditation was, that theſe Alehouſes were the Chappells of eaſe, and idlenes, whether thoſe</hi> de media &amp; in fima plebe, <hi>that is, thoſe of the midle and loweſt rancke of common people doe frequent. That their mirth heere, is divided into two ſorts, either ſcoffing, iéering
+<pb facs="tcp:100032:60"/>ieſts, or obſcene bawdy ieſts. That the hoſt loves money without your company, but hee loves not your company without money. That ſinging is there muſticke whereas they keepe no eyme, for when their heads are full of Crotchetts, they will ſitt up u<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>till twelve a clocke ſing<g ref="char:EOLhyphen"/>ing catches. That the drinking roomes are Cupids cloſets, where they conſpire, and agrée about midnight matches. That drunkenneſſe becomes a Carpen<g ref="char:EOLhyphen"/>ter or a Ioyner better then a Gentle<g ref="char:EOLhyphen"/>man, who ſhould not onely know vertue, but live vertuouſly, or elſe hee deſerves to be degraded of that title. That drinke is a ſtrange diſguiſe, for it makes a man ſo blinde that he does not know himſelfe, nor where he is, nor what he doth. That Alehouſes ſhotts among the common people never wound the purſe much, for the thorte ſcatters among the whole com<g ref="char:EOLhyphen"/>pany. That drunkards when they have leaſt Witt, thinke themſelve moſt wiſe. That it is no good place to chuſe a friend, for they will bee kinde in their drinke, and the next day bee ready to cut your throat. That they will ſweare here like fréeholders, that is as long as
+<pb facs="tcp:100032:60"/>they are freeholders of the Alehouſe. That they will talke nonſenſe</hi> ex tempo<g ref="char:EOLhyphen"/>re, <hi>and quarrell about any ocaſion, and for one word they will give you a hun<g ref="char:EOLhyphen"/>dred words. That héere is great puf<g ref="char:EOLhyphen"/>fing and blowing, eſpecially, when the Tobacco pipes are lighted, and then their actions may bee divided into ſoure ſorts, Drinking, diſcourſeſing, ſmoking, ſpit<g ref="char:EOLhyphen"/>ting, and their paſſions are divided into foure more, quarrelling, complementing, ſinging, and paying the reckening, the laſt whereof, namely, the paſſion of pay<g ref="char:EOLhyphen"/>ing the reckoning is the worſt, for it is accompanied alwaies with a</hi> Delerium <hi>or ſwimming of the head. That men commonly looſe foure things, and ſome<g ref="char:EOLhyphen"/>times a fifth, by frequenting Alehou<g ref="char:EOLhyphen"/>ſes, viz. They looſe their time, their money, their credit, and their ſences, and I feare their ſoules. That it is a houſe that hath many Inmates, and yet the Statute takes no hold of them, for they are but Tennants at will, ſo that when they have payed their rent, (which is too deare a rent for a drinking roome, they may leabe it to the hoſt, who ſtraight letts it out to the next company that
+<pb facs="tcp:100032:61" rendition="simple:additions"/>comes, and thus ſeverall reckonings doe pay the Hoſts rent, who might bee a Lord of a Towne for hee hath more Te<g ref="char:EOLhyphen"/>nants than the beſt of them, but his rent is not payd quarterly or yearely, but day<g ref="char:EOLhyphen"/>ly and hourely, and if a man be too long a Tenant to any of his roomes, and ſpend little, he will put him out by a</hi> Ha<g ref="char:EOLhyphen"/>beas corpus, <hi>and deſire him to give place to ſome company that deſire that roome, when indeede hee deſires to have his roome in ſtead of his company. In a word, an Alehouſe is a place where much time, much mony, many words, much Tobacco, much paper, much drinke are ſpent, and caſt away, and in ſtead thereof there is nothing gotten, or lent, but loſſe of time, poverty and beg<g ref="char:EOLhyphen"/>gery, a profane cuſtome of ſwearing, idle tobacco taking,
+<note place="margin">The deſcrip<g ref="char:EOLhyphen"/>tion of a Car<g ref="char:EOLhyphen"/>penter.</note> and a head full of drinke. And that Carpenters are ho<g ref="char:EOLhyphen"/>neſt fellowes, which though they live by the ſquare, the rule, and the compaſſe, yet they neither live within rule, ſqure, or compaſſe. That they know how to fa<g ref="char:EOLhyphen"/>ſhion the Timber for the fabricke of a building, and they cannot endure brick-building becauſe it hath little timber-worke.
+<pb facs="tcp:100032:61"/>That their children are Chipps of the old Blocke. That in ſawing of Timber hée that ſtands above is like the Client, &amp; he that ſtands below is like the Lawyer, for the duſt falles down to him. That Bricklayers are morterfied men,
+<note place="margin">The deſcrip<g ref="char:EOLhyphen"/>tion of a Brick layer.</note> though they are ſometimes troubled with their ſtones before they can tell how to lay them. That their pendicular line or plummet line, keepes their worke e<g ref="char:EOLhyphen"/>ven and ſtraight, and by the helpe of this weake line, they make ſtrong worke. That they are honeſt plain dealing men, and yet they have cunning in dawbing. That ſome times they climbe too high that they catch a fall, and ſo many tymes doe put their boſt ionts to the hazzard. That they may keepe a good table at home, but when they are abroad their morter is ſerved up to them in Trayes. They place brickes in the wall, as Poets doe words in their verſes, that is in a ſmooth and even manner. Their worke is the Emblem of Hppocriſie, for they can white over a mudd wall and make it ſéeme very faire outwardly, when underneath it is nothing but rotten lathes and loame. That when the
+<pb facs="tcp:100032:62"/>Tower of Babell was built, there was ſurely a great company of Bricklayers. That an Hoaſt is an under Landlord,
+<note place="margin">The deſcrip<g ref="char:EOLhyphen"/>tion of an Hoaſt.</note> or petty Landlord of ſome Alehouſe. That his noſe is richer than the Rockes in</hi> China, <hi>and is full of carbuncles and redd Rubies, ſo that hee may goe to bed by the light of it, for if hee follow his Noſe it will guid him to his Chamber. That he it every mans companion, but no mans freind. That his diſcourſe is frothie as his drinke. That hee is Baccus Stan<g ref="char:EOLhyphen"/>dardbearer, and carryes his culloures in his face, laſtly he may be an honeſt man, but yet he muſt néedes wincke at Sinne and drunkenneſſe, though hee take a nap for the tyme, or elſe hee will dye a Beg<g ref="char:EOLhyphen"/>ger. Witt having frained theſe medi<g ref="char:EOLhyphen"/>tations in his braine, purpoſed afterward to collect them into ſome forme, and ſet them downe in writing, ſo that percei<g ref="char:EOLhyphen"/>ving that the company was very farre ſpent in drinke, ſo that the two Carpen<g ref="char:EOLhyphen"/>ters ſung very woddenly, and the Brick<g ref="char:EOLhyphen"/>layer layd up his minde there before them all; and the ſtone cutter was cut in the legge, and the Hoſt had got the foxes skinne over his head in ſtead of a
+<pb facs="tcp:100032:62"/>night-cap: When Witt I ſay percei<g ref="char:EOLhyphen"/>ved that they were all gone in drinke, then Witt was preſently gone too,
+<note place="margin">Witt leaves &amp; loathes the company of drunkenneſſe</note> for hee ſlunke away, and as ſoone as Witt was gone, the Carpenters fell to quar<g ref="char:EOLhyphen"/>relling about their trades, &amp; one of them pretended that he was more skilfull than the other, ſo that they fell to hot arguing and diſppuation about the making of a paire of Gemetricall ſtayres; the ſtone-cutter who had got the Hickock endeavo<g ref="char:EOLhyphen"/>red to reconciſe them, wiſhing them to leave of that diſcourſe, and the hoſt thinking to have fetcht another Iugge of beare, fell over a Ioyne ſtoole, and broke his ſhinnes very ſorely, and after<g ref="char:EOLhyphen"/>ward he fell aſſéepe with the tappe in his hand, while all the drinke ranne about the ſeller, for as long as Witt is in com<g ref="char:EOLhyphen"/>pany men doe carry themſelves with ſome diſcretion, but aſſoone as he leaves them, then divers ſorts of follies are committed,
+<note place="margin">After folly is committed, Witt returnes in the mor<g ref="char:EOLhyphen"/>ning, and brings Repen<g ref="char:EOLhyphen"/>tance with him.</note> and ſundry miſchefes doe enſue, But next morning Witte came to them againe, (for his cuſtome is, that though he forſake his friends for a time yet hee will come againe) ſo I ſay Witt next morning came to them, and brought
+<pb facs="tcp:100032:63"/>with him one of his déere companions called repentance, and they two ſo farre prevailed over theſe drunkards by their perſwaſions, that at laſt they reſolved to forſake that deteſtable vice; And Witt upon that occaſion made a ſong called, I will never bee drunke a<g ref="char:EOLhyphen"/>gaine, &amp;c. And this was Wits firſt practiſe in the habit of a Citizen. His ſecond practiſe was in another victual<g ref="char:EOLhyphen"/>ling houſe or Alehouſe where hee lighted into the company of a Miller, a Tinker, a Cobler, a Porter, a Butcher, and the Tapſter of the houſe, who ſate and drank with them, and aſſoone as Witt came in he bad him welcome, and becauſe hee was alone the other ioviall blades who were drinking hard, and ſmoaking their noſes with Tobacco, deſired him to ſit downe, for if it pleaſed him they ſhould be glad of his company, whereupon Witt opening his cloake which before hee had caſt over his ſhoulders. aſſoone as the company ſaw that he had a leather apron before him, and a hammer under his girdle, they ſuppoſed him to bee a ham<g ref="char:EOLhyphen"/>mer man, and one asking him of what profeſſion hee was, he anſwered that hée
+<pb facs="tcp:100032:63"/>patient fellowes that could heare any burthen. That albeit they were city Aſſes and beare the Luggage of the Cittie on their backes, yet they have underſtanding enough if you put them to triall. That they weare two ſhirts when others doe ſcarcely were one. That they may ſay as the Poſt ſaid,</hi> ſuperanda omnis fortuna ferendo eſt, <hi>that is, all misfortune may bée over<g ref="char:EOLhyphen"/>come by ſufferance and patient bea<g ref="char:EOLhyphen"/>ring of them. Laſtly, a Porter is a Letterman, though hee know never a Letter, in company or out of com<g ref="char:EOLhyphen"/>pany hee is a fellow of good carriage.
+<note place="margin">Wits deſcr<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tion of <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Bucher.</note> Alſo Witte obſerved, That a Butcher though hée kill and ſell meate, yet hée is many times no great meate<g ref="char:EOLhyphen"/>man. That his killing of meate is but a kinde of ſacrificing to gluttony. That hee ſells all his Calves heads, except it bee one which hee keepes for his owne uſe. That hée cuttes out his meate with great diſcretion, and bumbaſts it with trunching-like skivers to make it ſeeme faire and fat. Laſtly, hée is a good<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ellow, and
+<pb facs="tcp:100032:64"/>hée loves Eſſex very well, becauſe that ſhire ſends up many fatt calves and hogges to London: But at laſt death knockes him downe with a ſtroke iuſt betwéene the hornes, and ſo this bloody.</hi>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>itts deſcrip<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n of a Tap<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>r.</note> Nero <hi>endeth his raigne. Laſtly, Witt noted that a Tapſter was a frothy fellow, that was ſervile to every mans humour, and ſubiect to every mans call. That hée is the Maſter Gunner in Bacchus his Lea<g ref="char:EOLhyphen"/>guer, and gives fire to the Tobacco pipes. That</hi> Quid eſt perſolvendum? <hi>or what is to pay? is a queſtion that is often put unto him, which hee anſwers and reſolves by a diſtinction, that</hi> partialiter, <hi>there is a penny bread, ſixe pence drinke, and two pence Tobacco, &amp;c. and</hi> totaliter <hi>that there is in all nine-pence to pay. In a word his Art is to bring in a totall reckoning, and then divide it into parts, or elſe to bring in the particulars, and then to reduce them to a totall. In a word a Tapſter is an honeſt good fellow, and hence hee is called a Tapſter, becauſe hee
+<pb facs="tcp:100032:64"/>ſtirres the tappe often, with pulling it out, and wringing it in, and at length he many times ſets up for himſelfe, and becomes an Hoaſt. Witt obſerved ma<g ref="char:EOLhyphen"/>ny other perſons, and made and writt many other diſcriptions of them, for when he had transformed himſelfe into a new ſhape, hee would goe into freſh company, and converſe and keepe com<g ref="char:EOLhyphen"/>pany with Taylors, Bakers, Cookes, Smiths, Chandelers, Ioyners, Oſtlers, Watermen and the like, the diſcriptions of whoſe Perſons and humours doe fol<g ref="char:EOLhyphen"/>low in the next Chapter.</hi>
+               </p>
+            </div>
+            <div n="3" type="chapter">
+               <pb facs="tcp:100032:65"/>
+               <head>
+                  <hi>The third Chapter.</hi> How Witt in the habit of a Citizen kept company ſtill with Taylers, Bakers, Cookes, Smiths, Chandlers, Ioyners, Oſtlers, Watermen and the like, and made certaine deſcriptions of their perſons and humours, which doe briefly follow.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Itt being ſtill diſguiſed in the habit of a Citizen, thought to perſiſt and goe forward ſtill in the deſ<g ref="char:EOLhyphen"/>cribing and diſcovering the perſons and humours of all ſorts of people, and ſo going forth into the Cittie, it began to raine ſo violently, that hee was compelled to ſave himſelfe from the iniury of the weather hee went into an Alehouſe, where he found a meſſe or medley of boone companions, and good fel<g ref="char:EOLhyphen"/>lowes, who becauſe it was a rainy day
+<pb facs="tcp:100032:65"/>thought it better to wett themſelves within, and kéepe themſelves dry with<g ref="char:EOLhyphen"/>out. The ioviall lads that were thus tyed together in a true-lovers knot of good fellowſhip were thoſe: namely, a Tayler, a Baker, a Cooke, a Smith, a Chandler, a Ioyner, an Oſtler, and a Waterman. Witt being admitted in<g ref="char:EOLhyphen"/>to their company, (for there is no com<g ref="char:EOLhyphen"/>pany but will deſire &amp; admit of Witts company) drew theſe diſcriptions of their Perſons, and Humours, viz. That a Tayler without any skill in Geometry takes the dimentions of your bodie.
+<note place="margin">Wits deſcri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>tion of a Ta<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>ler.</note> That his wife has authority to goe fine by her husbands coppie. That hee is never without two géeſe, the one is al<g ref="char:EOLhyphen"/>waies roſting, and yet is ever raw; the other is alwaies raw &amp; is never roſted. That he loves new faſhions as well as Amſterdam brethren love Factions. That an ill conſcience is a hell, but his hell is under or about his ſhopbord, where he caſts all his ſtolen remnants, and ſo keepes hell out of his conſcience. That hee and the Mercer doe make a gallant, but he ſpoyles them both, eſpecially the
+<pb facs="tcp:100032:66"/>Tayler, who muſt bee glad to petition his worſhip for his dew. That a long bill is a ſhrewd weapon, and no man handles it better then a Tayler. That there are many faſhions which have come up and gone downe ſince</hi> Adam <hi>made himſelfe bréeches of figge leaves. That wealth is a kinde of ſtiffening to the Tayler, and makes him thinke him<g ref="char:EOLhyphen"/>ſelfe a fine fellow. That his diſcourſe is either fuſtian or humbaſt. That hée weares good linings in his bréeches, for his wife is Churched oftner than any woman in the Pariſh. Laſtly, when hee dies he windes up his bottom and ſo makes an end.</hi>
+               </p>
+               <p>
+                  <hi>Alſo Wit noted that a Baker is a dry cruſtie fellow,
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>itts deſcrip<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n of a Baker</note> becauſe for the moſt part hee deales upon vantage. That hee is drunke with bread, for the taking in of halfe a dozen ſetts him going at any tyme. That hée is ſometimes enfor'ſt to look out of a wodden window. His bread is divided into thrée ſorts, according to the thrée diviſions of the people, his white bread is for the beſt ſort, his wheaten bread for the middle ranckt, and his
+<pb facs="tcp:100032:66"/>browne bread for the vulgar ſort. That a Tayler loves a Baker, becauſe hée loves bread. That hee never gives any thing to the poore, though ſometimes his bread is taken from him &amp; given to the poore. That a Bakers widow is a brown laſſe, and brings a man both bread and fleſh. In a word his bread is finer than himſelfe, for hee is but the branne of the world.</hi>
+               </p>
+               <p>
+                  <hi>Beſides Witt obſerved that a Cooke was a greaſie ſweating profeſſion,
+<note place="margin">Witts deſcrip<g ref="char:EOLhyphen"/>tion of a Cooke.</note> that does almoſt waſt himſelf while his meat is roaſting. That his chiefeſt ambiti<g ref="char:EOLhyphen"/>on is to raiſe paſte well, and ſeaſon meat diſcréetely. Hee makes great ſtore of Porrige or broth, which hee ſelles by halfepenyworths, or elſe you pay for your broth in your meate. That if you an<g ref="char:EOLhyphen"/>ger him you ſhall finde him a hott haſtie fellow, and the ſummer times melts his greaſe within him. That when his wife and he fall out, then all the fatt's in the fire.</hi>
+               </p>
+               <p>
+                  <hi>He noted alſo that a Smith was one that had many heates,
+<note place="margin">Witts deſcrip<g ref="char:EOLhyphen"/>tion of a Smith.</note> and yet tooke no coldes. That</hi> Vulcans <hi>fortune and
+<pb facs="tcp:100032:67"/>his are on. That he is never endited of forgerie, though hee is alwaies forging for though hee pawne all his tooles, yet he kéepes his vice. That hée loves the Iron age, becauſe it is likely there were than many Smiths. Laſtly, though he be a very ſmug fellow,
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>its deſcrip<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>on of a Chandler.</note> yet his wife ſeldome loves him.</hi>
+               </p>
+               <p>
+                  <hi>Moreover, Witt noted that a Chan<g ref="char:EOLhyphen"/>dler was a light braind fellow that ſold candles and other ſmall commodities by retaile. That he is a woodden ſcholler, for he kéepes his reckonings in woodden Books. That he cuts out pennyworths of chéeſe by the length of his Noſe, and makes the proverbe true, I will ſée your noſe chéeſe firſt. That hee ſells little quantities, and many times there are as little good qualities in his commodities. He ſhould be a wiſe man, for he weighes every thing:
+<note place="margin">
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>its deſcrip<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ion of a Ioy<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>er.</note> And laſtly, if he uſes good weights he may be an honeſt man.</hi>
+               </p>
+               <p>
+                  <hi>Witt alſo noted that a Ioyner could not chuſe but be a good companion by his Profeſſion, for all good fellowes are Ioyners, and Ioyners are good fellowes. That in all wood worke they are excel<g ref="char:EOLhyphen"/>lent, and doe make Bedſteads and Cub<g ref="char:EOLhyphen"/>bords,
+<pb facs="tcp:100032:67"/>and would kéepe no table at all, if hee could ſell off thoſe hée has. That if you take him for a ioyne ſtoole you doe him much wrong, for hee will ſitten on or take any Iniury. He is a nimble ſhaver, and hee deales moſt with deale wood, which being of a ſoftly nature hee can make an aſſe of it, and cutt it and carve it into any faſhion.</hi>
+               </p>
+               <p>
+                  <hi>And beſides Witt conceived that an Oſtler was a Rubber of Irrationall Animals or Creatures.
+<note place="margin">Wits deſcrip<g ref="char:EOLhyphen"/>ion of an Oſtler.</note> That he ſpeakes notherne ſpéeth, and will coſen a ſouther<g ref="char:EOLhyphen"/>man with his faire ſpéech. If you truſt the Oſtler to meate your horſe, hee will enioyne him ſome pennance and kéepe him faſting, that ſo hee may abate the pride of his fleſh, though you deſire to have him luſtie. That when hee is a<g ref="char:EOLhyphen"/>broad hee will ſtay thrée or foure dayes drinking, and lie at racke and manger, and yet hée will get it againe out of the racke and manger. That on the roade hee will pull off your bootes with great derterity, and having ſet him to his meate, hee rubbs him downe, and after<g ref="char:EOLhyphen"/>ward having made his bed, goes home<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:100032:68"/>to a worſe bedfellow, than the horſe, namely, the old trott his wife. And thus an Oſtler is a horſe-man that does not ſerve in the warrs, but ſerves horſes.</hi>
+               </p>
+               <p>
+                  <hi>Laſtly,
+<note place="margin">Witts deſcrip<g ref="char:EOLhyphen"/>tion of a Wa<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>erman.</note> Witt noted that a Water<g ref="char:EOLhyphen"/>man was one that lived by water, and yet hee drinkes the beſt beare hee can gett. His blew coate and cogniſance agrées as well as a Pot of Ale and a Toaſt. That hée cares not if</hi> London Bridge <hi>were quite demoliſht, for it hin<g ref="char:EOLhyphen"/>ders him. The Globe Playhouſe on the banckeſide, is like a bladder under one Arme, and</hi> Weſtminſter <hi>is like a Bladder under the other Arme, for if it were not for theſe two he would ſincke. Laſtly, hee would live on the water, but deſires to die on the land.</hi>
+               </p>
+               <p>
+                  <hi>Witt having thus drawne forth the deſcriptions of theſe ſeverall perſons, when he perceived that the Tayler had wound up his bottom ſo long that now he could not take his cuppes in any mea<g ref="char:EOLhyphen"/>ſure neither halfe ones nor whole ones, &amp; that the Baker had tooke in ſo many halfe dozens that now hée is forſt to
+<pb facs="tcp:100032:68"/>caſt them up againe with vantage, when Witt perceived that they were all gone in drink, than Wit was gone too: and ſo winding home to his ledging he drew theſe deſcriptions of the perſons &amp; humors which as they made him merry in wri<g ref="char:EOLhyphen"/>ting, ſo he hopes they will make you mer<g ref="char:EOLhyphen"/>ry in reading, for no man can ſhew any diſcretion or Witt in diſliking that which was written</hi> By Witt.</p>
+            </div>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:100032:69"/>
+            <l>The Readers are Witts Clients, and if he diſcerne,</l>
+            <l>That you kinde Readers doe like of his Tearme:</l>
+            <l>And that his Hillarie Tearme doe cheere your heart,</l>
+            <l>You may expect from Witt a ſecond part.</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:100032:69"/>
+         </div>
+      </body>
+   </text>
+</TEI>
